@@ -33,11 +33,18 @@ class NoticiaHelper {
 
   Future<NoticiaModel> getNotiExist(NoticiaModel noti) async {
     Database dbNoti = await BdPlunge.instance.dbAlba;
+    NoticiaModel noticia = new NoticiaModel();
 
     List<Map> notis = await dbNoti.query(tabNoticias, columns: colsNoti,
         where: "$notiLinkCol = ?", whereArgs: [noti.linkNoticia]);
     if(notis.length > 0){
-      return NoticiaModel.fromMap(notis.first);
+      noticia = NoticiaModel.fromMap(notis.first);
+      if(noti.titleNoticia == noticia.titleNoticia){
+        return noticia;
+      }else {
+        await deleteNoti(noticia.idNoticia);
+        return null;
+      }
     }else{
       return null;
     }

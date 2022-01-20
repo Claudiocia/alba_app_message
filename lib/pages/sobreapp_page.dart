@@ -15,6 +15,7 @@ class _PlaceSobreAppWidgetState extends State<PlaceSobreAppWidget> {
   MesaDirHelper helperMesa = MesaDirHelper();
   List<MesaDirModel> listMesa = [];
   bool isLoading = false;
+  final versionAtual = "Versão 3.0.1";
 
   final textParagrafo_1 = "Este aplicativo foi desenvolvido com o objetivo de ampliar a "
       "transparência e facilitar o acesso da população às informações disponibilizadas "
@@ -96,7 +97,7 @@ class _PlaceSobreAppWidgetState extends State<PlaceSobreAppWidget> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
-                  Text("Sobre o APP",
+                  Text("Sobre o APP - "+versionAtual,
                     style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
                   ),
                 ],
