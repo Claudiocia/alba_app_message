@@ -179,22 +179,22 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Adolfo Menezes', 'm', 'PSD', 'Anexo Nelson David Ribeiro -  gab. 210', "
-          "'3115-7145/3115-5303/3115-5304 ', 'amenezes@alba.ba.gov.br', "
+          "'3115-7145/3115-5303/3115-4090 ', 'adolfo.menezes@hotmail.com', "
           "'adolfomenezes.jpg', '910629');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Alan Castro', 'm', 'PSD', 'Anexo Wilson Lins - gab. 104', "
+          "VALUES ('Alan Castro', 'm', 'PV', 'Anexo Wilson Lins - gab. 104', "
           "'3115-4028/3115-5494', 'alancastro@alba.ba.gov.br', 'alancastro.jpg', "
           "'921261');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Alan Sanches', 'm', 'DEM', 'Anexo Nelson David Ribeiro - gab. 205', "
+          "VALUES ('Alan Sanches', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 205', "
           "'3115-0959/3115-5323/3115-7193', 'alansanches@alba.ba.gov.br', "
-          "'alansanches.jpg', '915887');",""
+          "'alansanches.jpg', '915887');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Alex da Piatã', 'm', 'PSD', 'Anexo Wilson Lins - gab. 108', "
-          "'3115-2926/3115-4074/3115-5216', 'alexdapiata@alba.ba.gov.br', "
+          "'3115-2926/3115-4074/3115-5216', 'deputadoalexdapiata@gmail.com', "
           "'alexdapiata.jpg', '921263');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -214,21 +214,16 @@ class BdPlunge {
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Bira Corôa Lula', 'm', 'PT', "
           "'Anexo Nelson David Ribeiro - gab. 105', '3115-2968/3115-4007/3115-5428', "
-          "'biracoroa@alba.ba.gov.br', 'biracoroa.jpg', '929593');",
+          "'agenda@biracoroa.com.br', 'biracoroa.jpg', '929593');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Bobô', 'm', 'PC do B', 'Anexo Nelson David Ribeiro - gab. 202', "
-          "'3115-5314/3115-7269', 'deputadoboboo@alba.ba.gov.br', 'bobo.jpg', '921283');",
+          "'3115-5314/3115-7269', 'deputadobobo@alba.ba.gov.br', 'bobo.jpg', '921283');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Capitão Alden', 'm', 'PSL', 'Anexo Wilson Lins - gab. 311', "
+          "VALUES ('Capitão Alden', 'm', 'PL', 'Anexo Wilson Lins - gab. 311', "
           "'3115-4022/3115-5417/3115-5418', 'capitaoalden@alba.ba.gov.br', "
           "'capitaoalden.jpg', '926912');",
-      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
-          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Carlos Geilson', 'm', 'PSDB', 'Anexo Wilson Lins - gab. 107', "
-          "'3115-7088', 'depcarlosgeilson@alba.ba.gov.br', "
-          "'carlosgeilson.jpg', '929540');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Carlos Ubaldino', 'm', 'PSD', 'Anexo Wilson Lins - gab. 208', "
@@ -236,16 +231,16 @@ class BdPlunge {
           "'carlosubaldino.jpg', '929592');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Dal', 'm', 'PP', 'Anexo Wilson Lins - gab. 210', "
-          "'3115-5518/3115-7185', 'daldeputado@alba.ba.gov.br', 'dal.jpg', '926915');",
+          "VALUES ('Dal', 'm', 'UB', 'Anexo Wilson Lins - gab. 210', "
+          "'3115-5518/3115-7185', 'daldeputado@gmail.com', 'dal.jpg', '926915');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('David Rios', 'm', 'PSDB', 'Anexo Nelson David Ribeiro - gab. 302', "
+          "VALUES ('David Rios', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 302', "
           "'3115-5353/3115-5493', 'davidrios@alba.ba.gov.br', 'davidrios.jpg', '921267');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Diego Coronel', 'm', 'PSD', 'Anexo Nelson David Ribeiro - gab. 110', "
-          "'3115-4000/3115-4073/3115-4934', 'diegocoronel@alba.ba.gov.br', 'diegocoronel.jpg', "
+          "'3115-4000/3115-4073/3115-4934', 'depdiegocoronel@gmail.com', 'diegocoronel.jpg', "
           "'926906');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -255,12 +250,12 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Eduardo Salles', 'm', 'PP', 'Anexo Wilson Lins - gab. 109', "
-          "'3115-0969/3115-5543/3115-7381', 'eduardosalles@alba.ba.gov.br', "
+          "'3115-0969/3115-5543/3115-7381', 'eduardosalles2014@gmail.com', "
           "'eduardosalles.jpg', '921268');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Euclides Fernandes', 'm', 'PDT', 'Anexo Nelson David Ribeiro - gab. 304', "
-          "'3115-4058/3115-7139', 'euclidesfernandes@alba.ba.gov.br', "
+          "VALUES ('Euclides Fernandes', 'm', 'PT', 'Anexo Nelson David Ribeiro - gab. 304', "
+          "'3115-4058/3115-7139', 'gabineteeuclidesfernandes@gmail.com', "
           "'euclidesfernandes.jpg', '910635');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -275,7 +270,7 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Fátima Nunes Lula', 'f', 'PT', 'Anexo Wilson Lins - gab. 111', "
-          "'3115-0934/3115-4001/3115-4071', 'fatimanunes@alba.ba.gov.br', "
+          "'3115-0934/3115-4001/3115-4071', 'fatimanunes@fatimanunes.com.br', "
           "'fatimanunes.jpg', '910636');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -285,7 +280,7 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Ivana Bastos', 'f', 'PSD', 'Anexo Wilson Lins - gab. 306', "
-          "'3115-4051/3115-4937/3115-5236', 'ivanabastos@alba.ba.gov.br', "
+          "'3115-4051/3115-4937/3115-5236', 'ivana@deputadaivanabastos.com.br', "
           "'ivanabastos.jpg', '915867');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -301,10 +296,10 @@ class BdPlunge {
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('José de Arimateia', 'm', 'Republicanos', "
           "'Anexo Nelson David Ribeiro - gab. 108', '3115-4006/3115-5438/3115-5439', "
-          "'pastorjosedearimateia@alba.ba.gov.br', 'josedearimateia.jpg', '915859');",
+          "'arimateia.paiva@hotmail.com', 'josedearimateia.jpg', '915859');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Júnior Muniz', 'm', 'PP', 'Anexo Nelson David Ribeiro - gab. 301', "
+          "VALUES ('Júnior Muniz', 'm', 'PT', 'Anexo Nelson David Ribeiro - gab. 301', "
           "'3115-0974/3115-2930/3115-5237', 'juniormuniz@alba.ba.gov.br', "
           "'juniormuniz.jpg', '926901');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -314,17 +309,17 @@ class BdPlunge {
           "'jurailtonsantos.jpg', '926897');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Jurandy Oliveira', 'm', 'PP', "
+          "VALUES ('Jurandy Oliveira', 'm', 'PSB', "
           "'Anexo Nelson David Ribeiro - gab. 307', '3115-0940/3115-0962/3115-2957', "
-          "'deputadojurandyoliveira@alba.ba.gov.br', 'jurandyoliveira.jpg', '919328');",
+          "'deputadojurandyoliveira@gmail.com', 'jurandyoliveira.jpg', '919328');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Jusmari Oliveira', 'f', 'PSD', "
           "'Anexo Nelson David Ribeiro - gab. 204', '3115-5288/3115-5361/3115-7056', "
-          "'deputadajusmarioliveira@alba.ba.gov.br', 'jusmarioliveira.jpg', '926910');",
+          "'jusmarioliveira@gmail.com', 'jusmarioliveira.jpg', '926910');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Kátia Oliveira', 'f', 'MDB', 'Anexo Wilson Lins - gab. 105', "
+          "VALUES ('Kátia Oliveira', 'f', 'UB', 'Anexo Wilson Lins - gab. 105', "
           "'3115-2981/3115-5218/3115-5255', 'depkatiaoliveira@alba.ba.gov.br', "
           "'katiaoliveira.jpg', '926898');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -334,17 +329,22 @@ class BdPlunge {
           "'laertedovando@alba.ba.gov.br', 'laertedovando.jpg', '926922');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Luciano Simões Filho', 'm', 'DEM', 'Anexo Wilson Lins - gab. 309', "
+          "VALUES ('Léo Prates', 'm', 'PDT', 'Anexo Wilson Lins - gab. 107', "
+          "'3115-5389/3115-5276/3115-0924', 'comunicacaoleoprates@gmail.com', "
+          "'leoprates.jpg', '926909');",
+      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
+          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
+          "VALUES ('Luciano Simões Filho', 'm', 'UB', 'Anexo Wilson Lins - gab. 309', "
           "'3115-4032/3115-7141', 'lucianosimoes@alba.ba.gov.br', "
           "'lucianosimoes.jpg', '921278');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Luiz Augusto', 'm', 'PP', 'Anexo Wilson Lins - gab. 305', "
-          "'3115-7169/3115-7021/3115-5311', 'laugusto@alba.ba.gov.br', "
+          "'3115-7169/3115-7021/3115-5311', 'laugusto4000@gmail.com', "
           "'luizaugusto.jpg', '930496');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Marcelinho Veiga', 'm', 'PSB', 'Anexo Wilson Lins - gab. 307', "
+          "VALUES ('Marcelinho Veiga', 'm', 'UB', 'Anexo Wilson Lins - gab. 307', "
           "'3115-2923/3115-4092/3115-4908', 'depmveiga@alba.ba.gov.br', "
           "'marceloveiga.jpg', '926899');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -359,14 +359,19 @@ class BdPlunge {
           "'mariadelcarmen.jpg', '915885');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Marquinho Viana', 'm', 'PSB', "
+          "VALUES ('Marquinho Viana', 'm', 'PV', "
           "'Anexo Nelson David Ribeiro - gab. 106', '3115-4094/3115-5464/3115-7003', "
           "'marquinhoviana@alba.ba.gov.br', 'marquinhoviana.jpg', '919329');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Mirela Macedo', 'f', 'PSD', 'Anexo Wilson Lins - gab. 205', "
+          "VALUES ('Mirela Macedo', 'f', 'UB', 'Anexo Wilson Lins - gab. 205', "
           "'3115-4099/3115-5219', 'mirelamacedo@alba.ba.gov.br', 'mirelamacedo.jpg', "
           "'923798');",
+      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
+          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
+          "VALUES ('Nelson Leal', 'm', 'PP', 'Anexo Wilson Lins - gab. 305', "
+          "'3115-5311/3115-7021', 'nleal@alba.ba.gov.br', 'nelsonleal.jpg', "
+          "'903706');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Neusa Lula Cadore', 'f', 'PT', 'Anexo Nelson David Ribeiro - gab. 305', "
@@ -398,22 +403,17 @@ class BdPlunge {
           "'prangel@alba.ba.gov.br', 'paulorangel.jpg', '908845');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Pedro Tavares', 'm', 'DEM', 'Anexo Nelson David Ribeiro - gab. 103', "
+          "VALUES ('Pedro Tavares', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 103', "
           "'3115-5349/3115-5479/3115-5548', 'deppedrotavares@alba.ba.gov.br', "
           "'pedrotavares.jpg', '915876');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Reinaldo Braga', 'm', 'PL', "
-          "'Anexo Nelson David Ribeiro - gab. 109', '3115-0933/3115-4047/3115-5340', "
-          "'rbraga@alba.ba.gov.br', 'reinaldobraga.jpg', '931033');",
-      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
-          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Roberto Carlos', 'm', 'PDT', 'Anexo Nelson David Ribeiro - gab. 308', "
+          "VALUES ('Roberto Carlos', 'm', 'PV', 'Anexo Nelson David Ribeiro - gab. 308', "
           "'3115-4036/3115-4095/3115-4097', 'rcarlos@alba.ba.gov.br', "
           "'robertocarlos.jpg', '907278');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Robinho', 'm', 'PP', 'Anexo Wilson Lins - gab. 304', "
+          "VALUES ('Robinho', 'm', 'UB', 'Anexo Wilson Lins - gab. 304', "
           "'3115-5369/3115-7018/3115-7137', 'robinho@alba.ba.gov.br', "
           "'robinho.jpg', '921265');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -433,22 +433,22 @@ class BdPlunge {
           "'rosembergpinto.jpg', '915881');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Samuel Júnior', 'm', 'PDT', 'Anexo Nelson David Ribeiro - gab. 306', "
+          "VALUES ('Samuel Júnior', 'm', 'REPUB', 'Anexo Nelson David Ribeiro - gab. 306', "
           "'3115-2971/3115-2982/3115-2991', 'depsamueljunior@alba.ba.gov.br', "
           "'samueljunior.jpg', '923801');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Sandro Régis', 'm', 'DEM', 'Anexo Wilson Lins - gab. 308', "
+          "VALUES ('Sandro Régis', 'm', 'UB', 'Anexo Wilson Lins - gab. 308', "
           "'3115-4949/3115-5408/3115-7051', 'sregis@alba.ba.gov.br', "
           "'sandroregis.jpg', '907264');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Soldado Prisco', 'm', 'PSC', 'Anexo Nelson David Ribeiro - gab. 203', "
+          "VALUES ('Soldado Prisco', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 203', "
           "'3115-7144/3115-7184/3115-7059 ', 'soldadoprisco@alba.ba.gov.br', "
           "'soldadoprisco.jpg', '921280');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Talita Oliveira', 'f', 'PSL', 'Anexo Nelson David Ribeiro - gab. 310', "
+          "VALUES ('Talita Oliveira', 'f', 'REPUB', 'Anexo Nelson David Ribeiro - gab. 310', "
           "'3115-2959/3115-4015/3115-4062', 'talitaoliveira@alba.ba.gov.br', "
           "'talitaoliveira.jpg', '926970');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -458,16 +458,16 @@ class BdPlunge {
           "'tiagocorreia.jpg', '927093');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Tom Araújo', 'm', 'DEM', 'Anexo Wilson Lins - gab. 301', "
+          "VALUES ('Tom Araújo', 'm', 'UB', 'Anexo Wilson Lins - gab. 301', "
           "'3115-5374/3115-7285/3115-7388', 'tom@alba.ba.gov.br', "
           "'tomaraujo.jpg', '915871');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Tum', 'm', 'PSC', 'Anexo Nelson David Ribeiro - gab. 303', "
+          "VALUES ('Tum', 'm', 'AVANTE', 'Anexo Nelson David Ribeiro - gab. 303', "
           "'3115-0945/3115-0946/3115-2960', 'tum@alba.ba.gov.br', 'tum.jpg', '926917');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Vitor Bonfim', 'm', 'PL', 'Anexo Nelson David Ribeiro - gab. 104', "
+          "VALUES ('Vitor Bonfim', 'm', 'PV', 'Anexo Nelson David Ribeiro - gab. 104', "
           "'3115-2965/3115-4924/3115-7060', 'vitorbonfim@alba.ba.gov.br', "
           "'vitorbonfim.jpg', '921274');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -479,7 +479,6 @@ class BdPlunge {
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Zó', 'm', 'PC do B', 'Anexo Wilson Lins - gab. 110', "
           "'3115-7259/3115-7368/3115-7369', 'zo@alba.ba.gov.br', 'zo.jpg', '921266');",
-
 
       //Comissoes - Tabela e inserção de dados - PERMANENTES
       "CREATE TABLE $tabComiss ($comissIdCol	INTEGER PRIMARY KEY, $comissNomeCol	TEXT, "
@@ -552,7 +551,7 @@ class BdPlunge {
           "$comissTelCol, $comissLocCol, $comissDiaCol, $comissHoraCol, $comissPresCol,	"
           "$comissViceCol, $comissMembCol, $comissSupleCol, $comissAsseCol, $comissPesqCol) VALUES ("
           "'Com. de Finanças, Orçamento, Fiscalização e Controle', 'Permanente', "
-          "'3115-7289', 'Sala Jairo Azi', 'Terça-feira', '11h15', 'Robinho', 'Tiago Correia', "
+          "'3115-7289', 'Sala Jairo Azi', 'Terça-feira', '11h15', 'Não eleito', 'Tiago Correia', "
           "'Alan Castro/Diego Coronel/Luciano Simões Filho/Samuel Júnior/Vitor Bonfim/Zé Raimundo Lula', "
           "'Jacó Lula da Silva/Marquinho Viana/Paulo Rangel Lula da Silva/Pedro Tavares', 'Iara Maria Loureiro de Oliveira', "
           "'Financas Orcamento Fiscalizacao e Controle Permanente Terca-feira Terca Robinho Tiago Correia "
@@ -583,7 +582,7 @@ class BdPlunge {
           "'Com. de Saúde e Saneamento', 'Permanente', '3115-7235/3115-2909', 'Sala Eliel Martins', "
           "'Terça-feira', '10h', 'Eduardo Alencar', 'José de Arimateia', "
           "'Alan Sanches/Alex da Piatã/Bira Corôa Lula/Fabíola Mansur/Jacó Lula da Silva/Niltinho', "
-          "'Angelo Almeida/Carlos Geilson/Euclides Fernandes/Jurandy Oliveira', 'Nancy Lima Pinto da Silva', "
+          "'Angelo Almeida/Euclides Fernandes/Jurandy Oliveira', 'Nancy Lima Pinto da Silva', "
           "'Saude e Saneamento Permanente Terca-feira Terca Eduardo Alencar Jose de Arimateia Alan Sanches "
           " Alex da Piata Bira Coroa Fabiola Mansur Jaco Niltinho Angelo Almeida Carlos Geilson Euclides "
           " Fernandes Jurandy Oliveira Eliel Martins');",
@@ -606,7 +605,7 @@ class BdPlunge {
           "'Com. Especial de Acompanhamento e Fiscalização de Barragens', 'Temporária', "
           "'3115-7289', 'Sala José Amando', 'Quarta-feira', '9h', 'Alan Castro', 'Laerte do Vando', "
           "'Eduardo Alencar/José de Arimateia/Júnior Muniz/Maria del Carmen Lula/Robinson Almeida Lula/Samuel Júnior', "
-          "'Marcelino Galo Lula/Tum', 'Tania Maria da Silva Bispo', 'Especial de Acompanhamento e Fiscalizacao "
+          "'Marcelino Galo Lula/Tum', 'Nancy Lima Pinto da Silva', 'Especial de Acompanhamento e Fiscalizacao "
           " de Barragens Temporaria Quarta-feira Quarta Alan Castro Laerte do Vando Eduardo Alencar Jose de Arimateia "
           " Junior Muniz Maria del Carmen Robinson Almeida Samuel Junior Marcelino Galo Tum Jose Amando');",
       "INSERT INTO $tabComiss ($comissNomeCol, $comissTipoCol, "
@@ -616,7 +615,7 @@ class BdPlunge {
           "'3115-7215/3115-2913', 'Sala Jadiel Matos', 'Quarta-feira', '9h15', "
           "'Tum', 'Osni Cardoso Lula da Silva', "
           "'Laerte do Vando/Mirela Macedo/Robinho/Rogério Andrade Filho/Vitor Bonfim/Zó', "
-          "'Aderbal Caldas/Luciano Simões Filho/Marquinho Viana/Paulo Rangel Lula da Silva', "
+          "'Luciano Simões Filho/Luiz Augusto/Marquinho Viana/Paulo Rangel Lula da Silva', "
           "'Iara Maria Loureiro de Oliveira', 'Especial de Assuntos Territoriais e Emancipacao "
           " Temporaria Quarta-feira Quarta Tum Osni Cardoso Laerte do Vando Mirela Macedo Robinho "
           " Rogerio Andrade Filho Vitor Bonfim Zo Aderbal Caldas Luciano Simoes Filho Marquinho "
@@ -639,7 +638,7 @@ class BdPlunge {
           "'Com. Especial de Desenvolvimento Urbano', 'Temporária', '3115-7215/3115-2913', "
           "'Sala Jadiel Matos', 'Segunda-feira', '14h', 'Maria del Carmen Lula', 'Tiago Correia', "
           "'Alex da Piatã/Alex Lima/Júnior Muniz/Olívia Santana/Robinson Almeida Lula/Tum', "
-          "'Fabíola Mansur/Josafá Marinho/Marcelino Galo Lula', 'Nancy Lima Pinto da Silva', 'Especial "
+          "'Fabíola Mansur/Josafá Marinho/Marcelino Galo Lula', 'Tania Marize da Silva Bispo', 'Especial "
           " de Desenvolvimento Urbano Temporaria Segunda-feira Segunda Maria del Carmen Tiago "
           " Correia Alex da Piata Alex Lima Junior Muniz Olivia Santana Robinson Almeida Tum "
           " Fabiola Mansur Josafa Marinho Marcelino Galo Jadiel Matos');",
@@ -705,7 +704,7 @@ class BdPlunge {
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Marcelinho Veiga', '3115-4051/3115-5499', 'null', '2a Vice-Presidência', "
-          "'marceloveiga.jpg', 'PSB');",
+          "'marceloveiga.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Bobô', '3115-5319/3115-4034', 'null', '3a Vice-Presidência', "
@@ -717,20 +716,20 @@ class BdPlunge {
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Júnior Muniz', '3115-5431/3115-7361', 'null', '1a Secretaria', "
-          "'juniormuniz.jpg', 'PP');",
+          "'juniormuniz.jpg', 'PT');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Alan Sanches', '3115-4938/3115-4932', 'null', '2a Secretaria', "
-          "'alansanches.jpg', 'DEM');",
+          "'alansanches.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Soldado Prisco', '3115-0906/3115-4940', 'null', '3a Secretaria', "
-          "'soldadoprisco.jpg', 'PSC');",
+          "'soldadoprisco.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Neusa Lula Cadore', '3115-7214/3115-5590', 'null', '4a Secretaria', "
           "'neusacadore.jpg', 'PT');",
-      //SUPLENTES DA MESA --ATUALIZAÇÃO
+      //SUPLENTES DA MESA
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Fátima Nunes Lula', '3115-0934/3115-4001', 'null', 'Suplente', "
@@ -738,28 +737,28 @@ class BdPlunge {
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Kátia Oliveira', '3115-2981/3115-5218', 'null', 'Suplente', "
-          "'katiaoliveira.jpg', 'MDB');",
+          "'katiaoliveira.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Mirela Macedo', '3115-4099/3115-5219', 'null', 'Suplente', "
-          "'mirelamacedo.jpg', 'PSD');",
+          "'mirelamacedo.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Roberto Carlos', '3115-4036/3115-4095', 'null', 'Suplente', "
-          "'robertocarlos.jpg', 'PDT');",
+          "'robertocarlos.jpg', 'PV');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Talita Oliveira', '3115-2959/3115-4015', 'null', 'Suplente', "
-          "'talitaoliveira.jpg', 'PSL');",
+          "'talitaoliveira.jpg', 'REPUB');",
       //FIM DOS SUPLENTES
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Euclides Fernandes', '3115-4058/3115-7139', 'null', 'Procurador', "
-          "'euclidesfernandes.jpg', 'PDT');",
+          "'euclidesfernandes.jpg', 'PT');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Talita Oliveira', '3115-2959/3115-4015', 'null', 'Ouvidora', "
-          "'talitaoliveira.jpg', 'PSL');",
+          "'talitaoliveira.jpg', 'REPUB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Aderbal Caldas', '3115-7131/3115-7363', 'null', 'Corregedor', "
@@ -771,67 +770,67 @@ class BdPlunge {
           "$partNomeCol	TEXT, $partSiglaCol	TEXT, $partLiderCol	TEXT, $partViceCol	TEXT, "
           "$partQtdCol	INTEGER NOT NULL);",
 
-      //PT - 11 deputados
+      //PT - 13 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Bancada', "
           "'Partido dos Trabalhadores', 'PT', 'Osni Cardoso Lula da Silva', "
-          "'Bira Corôa Lula/Maria del Carmen Lula', 11);",
+          "'Bira Corôa Lula/Maria del Carmen Lula', 13);",
 
-      //PSD - 10 deputados
+      //UB - 12 deputados
+      "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
+          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
+          "'União Brasil', 'UB', 'Tom Araújo', 'David Rios/Dal/Robinho', 12);",
+
+      //PSD - 7 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Bancada', "
           "'Partido Social Democrático', 'PSD', 'Diego Coronel', "
-          "'Mirela Macedo/Rogerio Andrade Filho', 10);",
+          "'Ivana Bastos/Rogerio Andrade Filho', 7);",
 
-      //PP - 9 deputados
+      //PP - 6 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Bancada', "
-          "'Partido Progressista', 'PP', 'Eduardo Salles', 'Luiz Augusto/Niltinho', 9);",
+          "'Partido Progressista', 'PP', 'null', 'null', 6);",
 
-      //DEM - 5 deputados
+      // PSB - 4 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Democratas', 'DEM', 'null', 'null', 5);",
-
-      // PSB - 5 deputados
-      "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
-          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Socialista Brasileiro', 'PSB', 'null', 'null', 5);",
+          "'Partido Socialista Brasileiro', 'PSB', 'null', 'null', 4);",
 
       //PC do B - 4 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
           "'Partido Comunista do Brasil', 'PC do B', 'null', 'null', 4);",
 
-      //PSDB - 4 deputados
+      //PV - 4 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido da Social Democracia Brasileira', 'PSDB', 'null', 'null', 4);",
+          "'Partido VERDE', 'PV', 'null', 'null', 4);",
 
-      //PDT - 3 deputados
+      //Republicanos - 4 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Democrático Trabalhista', 'PDT', 'null', 'null', 3);",
+          "'Republicanos', 'Repub', 'null', 'null', 4);",
 
-      //PSC - 3 deputados
+      //PSDB - 2 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Social Cristão', 'PSC', 'null', 'null', 3);",
+          "'Partido da Social Democracia Brasileira', 'PSDB', 'null', 'null', 2);",
 
-      //PSL - 2 deputados
+      //PDT - 2 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Social Liberal', 'PSL', 'null', 'null', 2);",
+          "'Partido Democrático Trabalhista', 'PDT', 'null', 'null', 2);",
 
-      //Republicanos - 2 deputados
+      //PSC - 1 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Republicanos', 'Repu', 'null', 'null', 2);",
+          "'Partido Social Cristão', 'PSC', 'null', 'null', 1);",
 
-      //PL - 2 deputado
+      //PL - 1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Liberal', 'PL', 'null', 'null', 2);",
+          "'Partido Liberal', 'PL', 'null', 'null', 1);",
 
       //PATRIOTA - 1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
@@ -839,62 +838,62 @@ class BdPlunge {
           "'Patriota', 'Patriota', 'null', 'null', 1);",
 
       //Avante - 1 deputado
-      /*"INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
-          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Avante', 'Avante', 'null', 'null', 1);",*/
-
-      //MDB - 1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Movimento Democrático Brasileiro', 'MDB', 'null', 'null', 1);",
+          "'Avante', 'Avante', 'null', 'null', 1);",
+
+      //MDB - 1 deputado
+      /*"INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
+          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
+          "'Movimento Democrático Brasileiro', 'MDB', 'null', 'null', 1);",*/
 
       //PSOL -  1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
           "'Partido Socialismo e Liberdade', 'PSOL', 'null', 'null', 1);",
 
-      //Bloco da Maioria - 44 deputados
+      //Bloco da Maioria - 34 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoM', "
-          "'Bloco da Maioria', 'PT/PSD/PP/PSB/PDT/PCdoB/PL', "
-          "'Rosemberg Lula Pinto', 'Carlos Ubaldino/Dal/Ivana Bastos/"
-          "Jurandy Oliveira/Reinaldo Braga/Roberto Carlos/"
-          "Robinson Almeida Lula/Zé Raimundo Lula', 44);",
+          "'Bloco da Maioria', 'PT/PSD/PSB/PV/PCdoB/Avante/Patriota', "
+          "'Rosemberg Lula Pinto', 'Fabrício Falcão/Robinson Almeida Lula/"
+          "Jurandy Oliveira/Carlos Ubaldino/Roberto Carlos/"
+          "Zé Raimundo Lula', 34);",
 
-      //Bloco da Minoria - 18 deputados
+      //Bloco da Minoria - 28 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoM', "
-          "'Bloco da Minoria', 'DEM/PSDB/PSC/PSL/Republicanos/Patriota/MDB', 'Sandro Régis', "
-          "'Carlos Geilson/Jurailton Santos/Tom Araújo', 18);",
+          "'Bloco da Minoria', 'UB/PSDB/PSC/PL/Republicanos/PP/PDT', 'Sandro Régis', "
+          "'Luciano Simões Filho/Kátia Oliveira/Tiago Correia/Mirela Macedo/Luiz Augusto', 28);",
 
       //Blocos partidários ------------ --ATUALIZAÇÃO
 
-      //Bloco PSB/PL - 7 deputados
+      //Bloco UB/PL - 13 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'PSB/PL', 'Alex Lima', "
-          "'Angelo Almeida/Vitor Bonfim', 7);",
+          "'Bloco Parlamentar', 'UB/PL', 'Tom Araújo', "
+          "'David Rios/Dal/Robinho', 13);",
 
-      //Bloco PDT/PC do B - 7 deputados
+      //Bloco PP/PSC - 7 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'PDT/PCdoB', ' Samuel Júnior', 'Fabrício Falcão/Zó', 7);",
+          "'Bloco Parlamentar', 'PP/PSC', 'Eduardo Salles', 'Niltinho/Laerte do Vando', 7);",
 
-      //Bloco DEM/MDB - 6 deputados
+      //Bloco PSB/PV - 8 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'DEM/MDB', "
-          "'Luciano Simões Filho', 'Kátia Oliveira', 6);",
+          "'Bloco Parlamentar', 'PSB/PV', "
+          "'Alex Lima', 'Vitor Bonfim/Angelo Almeida', 8);",
 
-      //Bloco PSDB/Republicanos - 6 deputados
+      //Bloco PSDB/Republicanos/PDT - 8 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'PSDB/Republicanos', 'Tiago Correia', 'David Rios', 6);",
+          "'Bloco Parlamentar', 'PSDB/Republicanos/PDT', 'Samuel Júnior', 'Jurailton Santos/Léo Prates', 8);",
 
-      //Bloco Patriota/PSL/PSC - 6 deputados
+      //Bloco PC do B/Patriota/Avante - 6 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'Patriota/PSL/PSC', 'Josafá Marinho', 'Laerte do Vando', 6);",
+          "'Bloco Parlamentar', 'Patriota/PC do B/Avante', 'Josafá Marinho', 'Zó', 6);",
 
       //FIM DOS PARTIDOS ------------ INICIO DA LISTA TELEFONICA --ATUALIZAÇÃO
 
@@ -904,15 +903,15 @@ class BdPlunge {
 
       "INSERT INTO $tabSetores ($setorAreaCol, $setorNomeCol, $setorRespCol, "
           "$setorEmailCol, $setorTelCol, $setorTagCol) VALUES ('GABINETE DA PRESIDÊNCIA',  'Secretaria',  'null',  'null',  '3115-4901', 'GABINETE DA PRESIDENCIA  Secretaria'),"
-          "('GABINETE DA PRESIDÊNCIA',  'Chefe de Gabinete',  'Karine Queiroz Silva',  'null',  '3115-4904/3115-4907', 'GABINETE DA PRESIDENCIA  Chefe de Gabinete  Karine Queiroz Silva'),"
+          "('GABINETE DA PRESIDÊNCIA',  'Chefe de Gabinete',  'Ana Ilza Carneiro',  'null',  '3115-4904/3115-4907', 'GABINETE DA PRESIDENCIA  Chefe de Gabinete  Ana Ilza Carneiro'),"
           "('GABINETE DA PRESIDÊNCIA',  'Assistência Militar',  'Ten. Cel. PM Motta Lima',  'amilitar@alba.ba.gov.br',  '3115-7337/3115-4977', 'GABINETE DA PRESIDENCIA  Assistencia Militar  Ten. Cel. PM Motta Lima'),"
           "('GABINETE DA PRESIDÊNCIA',  'Assistente da Mesa Diretora',  'Rosane Ribeiro',  'null',  '3115-7355/3115-2977', 'GABINETE DA PRESIDENCIA  Assistente da Mesa Diretora  Rosane Ribeiro'),"
           "('GABINETE DA PRESIDÊNCIA',  'Cerimonial',  'Manuela Braga',  'cerimonial@alba.ba.gov.br',  '3115-4911', 'GABINETE DA PRESIDENCIA  Cerimonial  Manuela Braga'),"
           "('GABINETE DA PRESIDÊNCIA',  'Assessor de Relações Institucionais',  'Hermógenes Gomes Neto',  'null',  '3115-4906/3115-4965', 'GABINETE DA PRESIDENCIA  Assessor de Relacoes Institucionais  Hermogenes Gomes Neto'),"
-          "('GABINETE DA PRESIDÊNCIA',  'Assessoria de Comunicação Presidencia',  'Nestor Mendes',  'null',  '3115-7334', 'GABINETE DA PRESIDENCIA  Assessoria de Comunicacao Presidencia  Nestor Mendes'),"
+          "('GABINETE DA PRESIDÊNCIA',  'Assessoria de Comunicação Presidencia',  'Nestor Mendes',  'null',  '3115-7334', 'GABINETE DA PRESIDENCIA  Assessoria de Comunicacao Presidencia ascom Nestor Mendes'),"
           "('PROCURADORIA GERAL',  'Procurador Geral',  'Graciliano Bomfim',  'pgeral@alba.ba.gov.br',  '3115-7241/3115-7168', 'PROCURADORIA GERAL  Procurador Geral  Graciliano Bomfim'),"
-          "('PROCURADORIA GERAL',  'Subprocuradora Geral',  'Laura Duran(respondendo)',  'null',  '3115-7397', 'PROCURADORIA GERAL  Subprocurador Geral  Laura Duran'),"
-          "('ASSESSORIA DE COMUNICAÇÃO SOCIAL',  'Chefe da Assessoria',  'Paulo Bina',  'ascom@alba.ba.gov.br',  '3115-4958/3115-4959', 'ASSESSORIA DE COMUNICACAO SOCIAL  Chefe da Assessoria  Paulo Bina'),"
+          "('PROCURADORIA GERAL',  'Subprocuradora Geral',  'Bianca Pellegrino',  'null',  '3115-7397', 'PROCURADORIA GERAL  Subprocurador Geral Bianca Pellegrino'),"
+          "('ASSESSORIA DE COMUNICAÇÃO SOCIAL',  'Chefe da Assessoria',  'Paulo Bina',  'ascom@alba.ba.gov.br',  '3115-4958/3115-4959', 'ASSESSORIA DE COMUNICACAO SOCIAL  Chefe da Assessoria ascom Paulo Bina'),"
           "('ASSESSORIA DE PLANEJAMENTO',  'Chefe da Assessoria',  'Ricardo Chagas de Abreu',  'asplan@alba.ba.gov.br',  '3115-7299/3115-4955', 'ASSESSORIA DE PLANEJAMENTO  Chefe da Assessoria  Ricardo Chagas de Abreu'),"
           "('AUDITORIA',  'Auditor Chefe',  'Ailton Cezarino de Novaes',  'auditoria@alba.ba.gov.br',  '3115-4983/3115-2988', 'AUDITORIA  Auditor Chefe  Ailton Cezarino de Novaes'),"
           "('AUDITORIA',  'Auditor Adjunto',  'Pablo Oliveira e Silva',  'null',  '3115-7341', 'AUDITORIA  Auditor Adjunto  Pablo Oliveira e Silva'),"
@@ -941,14 +940,14 @@ class BdPlunge {
           "('DIRETORIA ADMINISTRATIVA',  'Departamento de Apoio Administrativo',  'José Valdemir',  'sadag@alba.ba.gov.br',  '3115-7046', 'DIRETORIA ADMINISTRATIVA  Departamento de Apoio Administrativo  Jose Valdemir'),"
           "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Protocolo',  'Mirian Farias',  'protocoloalba@alba.ba.gov.br',  '3115-7047', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Protocolo Mirian  Miriam Farias'),"
           "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Serviços Gráficos',  'Anderson Sena',  'coordgrafica@alba.ba.gov.br',  '3115-2967', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Servicos Graficos  Anderson Sena'),"
-          "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Sonorização',  'Levino Costa Lima',  'sass@alba.ba.gov.br',  '3115-7164', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Sonorizacao  Levino Costa Lima'),"
+          "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Sonorização',  'Levino Cunha',  'sass@alba.ba.gov.br',  '3115-7164', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Sonorizacao  Levino Cunha'),"
           "('DIRETORIA ADMINISTRATIVA',  'Departamento de Contratos e Convênios',  'Antonio Sancho',  'dasccc@alba.ba.gov.br',  '3115-7114', 'DIRETORIA ADMINISTRATIVA  Departamento de Contratos e Convenios  Antonio Sancho'),"
-          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Diretor',  'a definir',  'def@alba.ba.gov.br',  '3115-4972', 'DIRETORIA DE ECONOMIA E FINANCAS  Diretor'),"
-          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Contabilidade',  'Laura Navarro',  'depcont@alba.ba.gov.br',  '3115-4971', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Contabilidade  Laura Navarro'),"
+          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Diretor',  'Clóvis Ferraz',  'def@alba.ba.gov.br',  '3115-4972', 'DIRETORIA DE ECONOMIA E FINANCAS  Diretor clovis ferraz'),"
+          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Contabilidade',  'Laura Bengard',  'depcont@alba.ba.gov.br',  '3115-4971', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Contabilidade  Laura Bengard'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação de Análise Contábil',  'Fábio Lima',  'analisecontabil@alba.ba.gov.br',  '3115-5475', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao de Analise Contabil  Fabio Lima'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação de Registro Contábil',  'Maria do Perpétuo Sousa',  'sfsrc@alba.ba.gov.br',  '3115-4970', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao de Registro Contabil  Maria do Perpetuo Sousa'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Orçamento e Finanças',  'Naédina Oliveira',  'sfdof@alba.ba.gov.br',  '3115-7217', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Orcamento e Financas  Naedina Oliveira'),"
-          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação Orçamentária',  'Vera Lúcia Leal',  'null',  '3115-7098', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao Orcamentaria  Vera Lucia Leal'),"
+          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação Orçamentária',  'a definir',  'null',  '3115-7098', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao Orcamentaria'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação Financeira',  'Carlos Maurício Santos',  'sfsf@alba.ba.gov.br',  '3115-7129', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao Financeira  Carlos Mauricio Santos'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Verbas e Cotas Parlamentares',  'Ana Verena Bacellar',  'dvcp@alba.ba.gov.br',  '3115-2943', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Verbas e Cotas Parlamentares  Ana Verena Bacellar'),"
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Diretor',  'Armando Veloso',  'dirinfo@alba.ba.gov.br',  '3115-7298', 'DIRETORIA DE TECNOLOGIA DA INFORMACAO  Diretor  Armando Veloso'),"
@@ -956,6 +955,7 @@ class BdPlunge {
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Departamento de Tecnologia da Informação',  'Alexandre Vinicius',  'depti@alba.ba.gov.br',  '3115-2906', 'DIRETORIA TECNOLOGIA DA INFORMACAO  Departamento de Tecnologia da Informacao  Alexandre Vinicius'),"
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Coordenação de Desenvolvimento de Sistemas ',  'Vanildo Guimarães',  'sds@alba.ba.gov.br',  '3115-7221', 'DIRETORIA TECNOLOGIA INFORMACAO  Coordenacao de Desenvolvimento de Sistemas   Vanildo Guimaraes'),"
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Coordenação de Informação',  'Bruno Calixto',  'sci@alba.ba.gov.br',  '3115-4070', 'DIRETORIA DE TECNOLOGIA DA INFORMACAO  Coordenacao de Informacao  Bruno Calixto'),"
+          "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Call Center de Informática',  'Call Center',  'null',  '3115-1100', 'DIRETORIA DE TECNOLOGIA DA INFORMACAO  call center informatica'),"
           "('SUPERINTENDÊNCIA DE RECURSOS HUMANOS',  'Superintendente',  'Francisco Raposo',  'srh@alba.ba.gov.br',  '3115-4968/3115-4075', 'SUPERINTENDENCIA DE RECURSOS HUMANOS  Superintendente  Francisco Raposo'),"
           "('SUPERINTENDÊNCIA DE RECURSOS HUMANOS',  'Departamento de Administração de Pessoal',  'Cláudio Santana',  'srhdap@alba.ba.gov.br',  '3115-7305', 'SUPERINTENDENCIA DE RECURSOS HUMANOS  Departamento de Administracao de Pessoal  Claudio Santana'),"
           "('SUPERINTENDÊNCIA DE RECURSOS HUMANOS',  'Coordenação de Movimentação de Pessoal',  'Juliana Nadjara',  'srh_scc@alba.ba.gov.br',  '3115-5458', 'SUPERINTENDENCIA DE RECURSOS HUMANOS  Coordenacao de Movimentacao de Pessoal  Juliana Nadjara'),"
@@ -965,27 +965,28 @@ class BdPlunge {
           "('DIRETORIA DE PROMOÇÃO À SAÚDE',  'Coordenação Técnica',  'Rodrigo Vasco da Gama',  'null',  '3115-7332/3115-4107', 'DIRETORIA DE PROMOCAO A SAUDE  Coordenacao Tecnica  Rodrigo Vasco da Gama'),"
           "('DIRETORIA DE PROMOÇÃO À SAÚDE',  'Coordenação de Nutrição',  'Terezinha Raposo',  'nutricao@alba.ba.gov.br',  '3115-7174', 'DIRETORIA DE PROMOCAO A SAUDE  Coordenacao de Nutricao  Terezinha Raposo'),"
           "('ESCOLA DO LEGISLATIVO',  'Diretora',  'Fernanda Alencar',  'escoladolegislativo@alba.ba.gov.br',  '3115-7310', 'ESCOLA DO LEGISLATIVO  Diretora  Fernanda Alencar'),"
-          "('ESCOLA DO LEGISLATIVO',  'Departamento Pedagógico e de Desenvolvimento',  'Marcyane Pirajá',  'escoladolegislativo@alba.ba.gov.br',  '3115-5468', 'ESCOLA DO LEGISLATIVO  Departamento Pedagogico e de Desenvolvimento  Marcyane Piraja'),"
+          "('ESCOLA DO LEGISLATIVO',  'Departamento Pedagógico e de Desenvolvimento',  'Yuriko Ozawa',  'escoladolegislativo@alba.ba.gov.br',  '3115-5468', 'ESCOLA DO LEGISLATIVO  Departamento Pedagogico e de Desenvolvimento  Yuriko Ozawa'),"
           "('ESCOLA DO LEGISLATIVO',  'Departamento de Projetos Especiais',  'Jéssica Freire',  'escoladolegislativo@alba.ba.gov.br',  '3115-7223', 'ESCOLA DO LEGISLATIVO  Departamento de Projetos Especiais  Jessica Freire'),"
-          "('SUPERINTENDÊNCIA DE ASSUNTOS PARLAMENTARES',  'Superintendente',  'Ivoneide Souza Caetano',  'sasp@alba.ba.gov.br',  '3115-7219', 'SUPERINTENDENCIA DE ASSUNTOS PARLAMENTARES  Superintendente  Ivoneide Souza Caetano'),"
-          "('DIRETORIA LEGISLATIVA',  'Diretor',  'Clóvis Ferraz',  'dirlegis@alba.ba.gov.br',  '3115-7238', 'DIRETORIA LEGISLATIVA  Diretor  Clóvis Ferraz'),"
+          "('SUPERINTENDÊNCIA DE ASSUNTOS PARLAMENTARES',  'Superintendente',  'Breno Valadares dos Anjos',  'sasp@alba.ba.gov.br',  '3115-7219', 'SUPERINTENDENCIA DE ASSUNTOS PARLAMENTARES  Superintendente  Breno Valadares dos Anjos'),"
+          "('DIRETORIA LEGISLATIVA',  'Diretor',  'Wolnei Borges Lima',  'dirlegis@alba.ba.gov.br',  '3115-7238', 'DIRETORIA LEGISLATIVA  Diretor  Wolnei Borges Lima'),"
           "('DIRETORIA LEGISLATIVA',  'Departamento de Atos Oficiais',  'Marize Bastos',  'atosoficiais@alba.ba.gov.br',  '3115-2915', 'DIRETORIA LEGISLATIVA  Departamento Atos Oficiais  Marize Bastos'),"
-          "('DIRETORIA LEGISLATIVA',  'Departamento de Taquigrafia',  'Marilanja Pereira',  'detaq@alba.ba.gov.br',  '3115-2902', 'DIRETORIA LEGISLATIVA  Departamento Taquigrafia  Marilanja Pereira'),"
+          "('DIRETORIA LEGISLATIVA',  'Departamento de Taquigrafia',  'Marilanja Santos',  'detaq@alba.ba.gov.br',  '3115-2902', 'DIRETORIA LEGISLATIVA  Departamento Taquigrafia  Marilanja Santos'),"
           "('DIRETORIA LEGISLATIVA',  'Coordenação de Apanhamento e Revisão',  'Mirela Novais',  'coare@alba.ba.gov.br',  '3115-2911', 'DIRETORIA LEGISLATIVA  Coordenacao Apanhamento Revisao  Mirela Novais'),"
           "('DIRETORIA LEGISLATIVA',  'Coordenação de Apoio Taquigráfico',  'Vera Simões',  'coara@alba.ba.gov.br',  '3115-2919', 'DIRETORIA LEGISLATIVA  Coordenacao Apoio Taquigrafico  Vera Simoes'),"
-          "('DIRETORIA LEGISLATIVA',  'Departamento de Controle do Processo Legislativo',  'Licéa Santos',  'dcpl@alba.ba.gov.br',  '3115-7113', 'DIRETORIA LEGISLATIVA  Departamento de Controle do Processo Legislativo  Licea Santos'),"
-          "('DIRETORIA LEGISLATIVA',  'Coordenação de Registro',  'Andréa Velloso',  'null',  '3115-2916', 'DIRETORIA LEGISLATIVA  Coordenacao de Registro  Andrea Velloso'),"
-          "('DIRETORIA LEGISLATIVA',  'Coordenação de Expediente',  'Marjorie Fontes',  'expediente@alba.ba.gov.br',  '3115-7194', 'DIRETORIA LEGISLATIVA  Coordenacao de Expediente  Marjorie Fontes'),"
+          "('DIRETORIA LEGISLATIVA',  'Departamento de Controle do Processo Legislativo',  'Maria Carolina Brito',  'dcpl@alba.ba.gov.br',  '3115-7113', 'DIRETORIA LEGISLATIVA  Departamento de Controle do Processo Legislativo  Maria Carolina Brito'),"
+          "('DIRETORIA LEGISLATIVA',  'Coordenação de Registro',  'Janine Trindade',  'null',  '3115-2916', 'DIRETORIA LEGISLATIVA  Coordenacao de Registro  Janine Trindade'),"
+          "('DIRETORIA LEGISLATIVA',  'Coordenação de Expediente',  'Luiza Andrade',  'expediente@alba.ba.gov.br',  '3115-7194', 'DIRETORIA LEGISLATIVA  Coordenacao de Expediente  Luiza Andrade'),"
           "('DIRETORIA PARLAMENTAR',  'Diretor',  'Geraldo Mascarenhas',  'dpa@alba.ba.gov.br',  '3115-7274', 'DIRETORIA PARLAMENTAR  Diretor  Geraldo Mascarenhas'),"
-          "('DIRETORIA PARLAMENTAR',  'Departamento de Documentação e Informação ',  'Tânia Queiroz',  'bib@alba.ba.gov.br',  '3115-4973', 'DIRETORIA PARLAMENTAR  Departamento de Documentacao e Informacao Tania Queiroz'),"
-          "('DIRETORIA PARLAMENTAR',  'Coordenação de Biblioteca',  'Iracilda Nunes',  'bib@alba.ba.gov.br',  '3115-5229', 'DIRETORIA PARLAMENTAR  Coordenacao de Biblioteca  Iracilda Nunes'),"
-          "('DIRETORIA PARLAMENTAR',  'Coordenação de Anais',  'Dora Maria Silva',  'anais@alba.ba.gov.br',  '3115-7220', 'DIRETORIA PARLAMENTAR  Coordenacao de Anais  Dora Maria Silva'),"
+          "('DIRETORIA PARLAMENTAR',  'Departamento de Documentação e Informação ',  'Iracilda Nunes',  'bib@alba.ba.gov.br',  '3115-4973', 'DIRETORIA PARLAMENTAR  Departamento de Documentacao e Informacao Iracilda Nunes'),"
+          "('DIRETORIA PARLAMENTAR',  'Coordenação de Biblioteca',  'Cláudia Lago',  'bib@alba.ba.gov.br',  '3115-5229', 'DIRETORIA PARLAMENTAR  Coordenacao de Biblioteca  Claudia Lago'),"
+          "('DIRETORIA PARLAMENTAR',  'Coordenação de Anais',  'Gabriela Azoubel',  'anais@alba.ba.gov.br',  '3115-7220', 'DIRETORIA PARLAMENTAR  Coordenacao de Anais Gabriela Azoubel'),"
           "('DIRETORIA PARLAMENTAR',  'Coordenação de Arquivo Geral e Microfilmagem',  'Raquel Machado',  'arquivogeral@alba.ba.gov.br',  '3115-7112', 'DIRETORIA PARLAMENTAR  Coordenacao de Arquivo Geral e Microfilmagem  Raquel Machado'),"
-          "('DIRETORIA PARLAMENTAR',  'Departamento de Pesquisa',  'Maria Pia Baldwin',  'departamentopesquisa@alba.ba.gov.br',  '3115-4974', 'DIRETORIA PARLAMENTAR  Departamento de Pesquisa  Maria Pia Baldwin'),"
+          "('DIRETORIA PARLAMENTAR',  'Departamento de Pesquisa',  'Arlete Neiva',  'departamentopesquisa@alba.ba.gov.br',  '3115-4974', 'DIRETORIA PARLAMENTAR  Departamento de Pesquisa Arlete Neiva'),"
           "('DIRETORIA PARLAMENTAR',  'Coordenação do Memorial do Legislativo',  'Cláudio Oliveira',  'memorial@alba.ba.gov.br',  '3115-7291', 'DIRETORIA PARLAMENTAR  Coordenacao do Memorial do Legislativo  Claudio Oliveira'),"
-          "('DIRETORIA PARLAMENTAR',  'Departamento de Apoio Técnico ',  'Arlete Neiva',  'dpdat@alba.ba.gov.br',  '3115-7222', 'DIRETORIA PARLAMENTAR  Departamento de Apoio Tecnico   Arlete Neiva'),"
+          "('DIRETORIA PARLAMENTAR',  'Departamento de Apoio Técnico ',  'Ian Schwarz',  'dpdat@alba.ba.gov.br',  '3115-7222', 'DIRETORIA PARLAMENTAR  Departamento de Apoio Tecnico Ian Schwarz'),"
           "('SECRETARIA GERAL DA MESA',  'Secretário Geral',  'Carlos Machado',  'sgm@alba.ba.gov.br',  '3115-7231', 'SECRETARIA GERAL DA MESA  Secretario Geral  Carlos Machado'),"
           "('SECRETARIA GERAL DE COMISSÕES',  'Secretária Geral',  'Sandra Moreno',  'sgc@alba.ba.gov.br',  '3115-7260', 'SECRETARIA GERAL DE COMISSOES  Secretaria Geral  Sandra Moreno'),"
+          "('DIVERSOS',  'Assistência Civil',  'null',  'null',  '3115-4017/3115-4909', 'DIVERSOS  Assistencia Civil'),"
           "('DIVERSOS',  'Grupo Editorial',  'null',  'null',  '3115-7243', 'DIVERSOS  Grupo Editorial'),"
           "('DIVERSOS',  'Assalba',  'null',  'null',  '3115-2962/3115-7038', 'DIVERSOS  Assalba'),"
           "('DIVERSOS',  'Central Telefônica',  'null',  'null',  '3115-7399/3115-7268', 'DIVERSOS  Central Telefonica'),"
@@ -1009,13 +1010,12 @@ class BdPlunge {
           "('DIVERSOS',  'Refeitório',  'null',  'null',  '3115-7329', 'DIVERSOS  Refeitorio'),"
           "('DIVERSOS',  'Restaurante A La Carte',  'null',  'null',  '3115-7314', 'DIVERSOS  Restaurante Carte'),"
           "('DIVERSOS',  'Salão de Beleza',  'null',  'null',  '3115-5496', 'DIVERSOS  Salao de Beleza'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Agda Paiva',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Gerente  Agda Paiva'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Tais Gomes',  'null',  '3115-7146', 'BANCO BRADESCO Posto Assembleia  Gerente  Tais Gomes'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Felipe Barbosa',  'null',  '3115-7359', 'BANCO BRADESCO Posto Assembleia  Gerente  Felipe Barbosa'),"
+          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Tais Damasceno',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Gerente Tais Damasceno'),"
+          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Elisabete Alves',  'null',  '3115-7146', 'BANCO BRADESCO Posto Assembleia  Gerente Elisabete Alves'),"
           "('BANCO BRADESCO Posto Assembleia',  'Sala Vip',  'null',  'null',  '3115-7128', 'BANCO BRADESCO Posto Assembleia  Sala Vip'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Seguros',  'Rosângela Rivas',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Seguros  Rosangela Rivas'),"
-          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Fernanda Marques',  'null',  '3115-7009', 'BRADESCO PRIME - Assembleia  Gerente  Fernanda Marques'),"
-          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Raquel Castro',  'null',  '3473-6001', 'BRADESCO PRIME - Assembleia  Gerente  Raquel Castro');",
+          "('BANCO BRADESCO Posto Assembleia',  'Seguros',  'null',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Seguros'),"
+          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Daniele',  'null',  '3115-7009', 'BRADESCO PRIME - Assembleia  Gerente  Ivaneide Novais Daniele'),"
+          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Ivaneide Novais',  'null',  '3473-6001', 'BRADESCO PRIME - Assembleia  Gerente  Ivaneide Novais Daniele');",
 
       //Todos os deputados --ATUALIZAÇÃO
       "CREATE TABLE $tabTodosDep ($idTodoDepCol	INTEGER PRIMARY KEY, $nomeParlaCol TEXT, "
@@ -1146,7 +1146,7 @@ class BdPlunge {
           "('Carlos Daltro', 'Carlos Alberto Pires Daltro', '5000100', 'n', 'Carlos Alberto Pires Daltro'),"
           "('Carlos Facó', 'José Carlos Facó', '5000313', 'n', 'Jose Carlos Faco'),"
           "('Carlos Figueiredo Lima', 'Carlos Eduardo Figueiredo Lima', '5000106', 'n', 'Carlos Eduardo Figueiredo Lima'),"
-          "('Carlos Geilson', 'Carlos Geilson dos Santos Silva', '929540', 's', 'Carlos Geilson dos Santos Silva'),"
+          "('Carlos Geilson', 'Carlos Geilson dos Santos Silva', '929540', 'n', 'Carlos Geilson dos Santos Silva'),"
           "('Carlos Linhares', 'Carlos Ernesto Linhares de Albuquerque', '5000107', 'n', 'Carlos Ernesto Linhares de Albuquerque'),"
           "('Carlos Marighella', 'Carlos Augusto Marighella', '5000103', 'n', 'Carlos Augusto Marighella'),"
           "('Carlos Penna', 'Carlos Costa Penna', '5000105', 'n', 'Carlos Costa Penna'),"
@@ -1426,7 +1426,7 @@ class BdPlunge {
           "('Ladislau Cavalcanti', 'Ladislau de Azevedo Cavalcanti', '5000350', 'n', 'Ladislau de Azevedo Cavalcanti'),"
           "('Laerte do Vando', 'Laerte Leandro de Araújo Fernandes', '926922', 's', 'Laerte Leandro de Araujo Fernandes Vando'),"
           "('Lafaiete Coutinho', 'Lafaiete Coutinho de Albuquerque', '5000351', 'n', 'Lafaiete Coutinho de Albuquerque'),"
-          "('Leo Prates', 'Leonardo Silva Prates', '926909', 'n', 'Leonardo Silva Prates'),"
+          "('Leo Prates', 'Leonardo Silva Prates', '926909', 's', 'Leonardo Silva Prates'),"
           "('Leônidas Cardoso', 'Leônidas Rocha Cardoso', '5000352', 'n', 'Leonidas Rocha Cardoso'),"
           "('Leopodino Tantú', 'Leopoldino Antônio de Freitas Tantú', '0000166', 'n', 'Leopoldino Antonio de Freitas Tantu Leopodino'),"
           "('Leur Lomanto Júnior', 'Leur Antonio de Brito Lomanto Júnior', '910643', 'n', 'Leur Antonio de Brito Lomanto Junior'),"
@@ -1730,7 +1730,7 @@ class BdPlunge {
 
     return queryesAtualiz;
   }
-
+//======================= ******************* ===================== \\
   //Queries SQL para formação do Banco de Dados
   //Função com preenchimento do BD
   List<String> formQueries() {
@@ -1762,22 +1762,22 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Adolfo Menezes', 'm', 'PSD', 'Anexo Nelson David Ribeiro -  gab. 210', "
-          "'3115-7145/3115-5303/3115-5304 ', 'amenezes@alba.ba.gov.br', "
+          "'3115-7145/3115-5303/3115-4090 ', 'adolfo.menezes@hotmail.com', "
           "'adolfomenezes.jpg', '910629');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Alan Castro', 'm', 'PSD', 'Anexo Wilson Lins - gab. 104', "
+          "VALUES ('Alan Castro', 'm', 'PV', 'Anexo Wilson Lins - gab. 104', "
           "'3115-4028/3115-5494', 'alancastro@alba.ba.gov.br', 'alancastro.jpg', "
           "'921261');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Alan Sanches', 'm', 'DEM', 'Anexo Nelson David Ribeiro - gab. 205', "
+          "VALUES ('Alan Sanches', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 205', "
           "'3115-0959/3115-5323/3115-7193', 'alansanches@alba.ba.gov.br', "
           "'alansanches.jpg', '915887');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Alex da Piatã', 'm', 'PSD', 'Anexo Wilson Lins - gab. 108', "
-          "'3115-2926/3115-4074/3115-5216', 'alexdapiata@alba.ba.gov.br', "
+          "'3115-2926/3115-4074/3115-5216', 'deputadoalexdapiata@gmail.com', "
           "'alexdapiata.jpg', '921263');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -1797,21 +1797,16 @@ class BdPlunge {
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Bira Corôa Lula', 'm', 'PT', "
           "'Anexo Nelson David Ribeiro - gab. 105', '3115-2968/3115-4007/3115-5428', "
-          "'biracoroa@alba.ba.gov.br', 'biracoroa.jpg', '929593');",
+          "'agenda@biracoroa.com.br', 'biracoroa.jpg', '929593');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Bobô', 'm', 'PC do B', 'Anexo Nelson David Ribeiro - gab. 202', "
-          "'3115-5314/3115-7269', 'deputadoboboo@alba.ba.gov.br', 'bobo.jpg', '921283');",
+          "'3115-5314/3115-7269', 'deputadobobo@alba.ba.gov.br', 'bobo.jpg', '921283');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Capitão Alden', 'm', 'PSL', 'Anexo Wilson Lins - gab. 311', "
+          "VALUES ('Capitão Alden', 'm', 'PL', 'Anexo Wilson Lins - gab. 311', "
           "'3115-4022/3115-5417/3115-5418', 'capitaoalden@alba.ba.gov.br', "
           "'capitaoalden.jpg', '926912');",
-      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
-          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Carlos Geilson', 'm', 'PSDB', 'Anexo Wilson Lins - gab. 107', "
-          "'3115-7088', 'depcarlosgeilson@alba.ba.gov.br', "
-          "'carlosgeilson.jpg', '929540');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Carlos Ubaldino', 'm', 'PSD', 'Anexo Wilson Lins - gab. 208', "
@@ -1819,16 +1814,16 @@ class BdPlunge {
           "'carlosubaldino.jpg', '929592');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Dal', 'm', 'PP', 'Anexo Wilson Lins - gab. 210', "
-          "'3115-5518/3115-7185', 'daldeputado@alba.ba.gov.br', 'dal.jpg', '926915');",
+          "VALUES ('Dal', 'm', 'UB', 'Anexo Wilson Lins - gab. 210', "
+          "'3115-5518/3115-7185', 'daldeputado@gmail.com', 'dal.jpg', '926915');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('David Rios', 'm', 'PSDB', 'Anexo Nelson David Ribeiro - gab. 302', "
+          "VALUES ('David Rios', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 302', "
           "'3115-5353/3115-5493', 'davidrios@alba.ba.gov.br', 'davidrios.jpg', '921267');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Diego Coronel', 'm', 'PSD', 'Anexo Nelson David Ribeiro - gab. 110', "
-          "'3115-4000/3115-4073/3115-4934', 'diegocoronel@alba.ba.gov.br', 'diegocoronel.jpg', "
+          "'3115-4000/3115-4073/3115-4934', 'depdiegocoronel@gmail.com', 'diegocoronel.jpg', "
           "'926906');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -1838,12 +1833,12 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Eduardo Salles', 'm', 'PP', 'Anexo Wilson Lins - gab. 109', "
-          "'3115-0969/3115-5543/3115-7381', 'eduardosalles@alba.ba.gov.br', "
+          "'3115-0969/3115-5543/3115-7381', 'eduardosalles2014@gmail.com', "
           "'eduardosalles.jpg', '921268');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Euclides Fernandes', 'm', 'PDT', 'Anexo Nelson David Ribeiro - gab. 304', "
-          "'3115-4058/3115-7139', 'euclidesfernandes@alba.ba.gov.br', "
+          "VALUES ('Euclides Fernandes', 'm', 'PT', 'Anexo Nelson David Ribeiro - gab. 304', "
+          "'3115-4058/3115-7139', 'gabineteeuclidesfernandes@gmail.com', "
           "'euclidesfernandes.jpg', '910635');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -1858,7 +1853,7 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Fátima Nunes Lula', 'f', 'PT', 'Anexo Wilson Lins - gab. 111', "
-          "'3115-0934/3115-4001/3115-4071', 'fatimanunes@alba.ba.gov.br', "
+          "'3115-0934/3115-4001/3115-4071', 'fatimanunes@fatimanunes.com.br', "
           "'fatimanunes.jpg', '910636');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -1868,7 +1863,7 @@ class BdPlunge {
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Ivana Bastos', 'f', 'PSD', 'Anexo Wilson Lins - gab. 306', "
-          "'3115-4051/3115-4937/3115-5236', 'ivanabastos@alba.ba.gov.br', "
+          "'3115-4051/3115-4937/3115-5236', 'ivana@deputadaivanabastos.com.br', "
           "'ivanabastos.jpg', '915867');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
@@ -1884,10 +1879,10 @@ class BdPlunge {
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('José de Arimateia', 'm', 'Republicanos', "
           "'Anexo Nelson David Ribeiro - gab. 108', '3115-4006/3115-5438/3115-5439', "
-          "'pastorjosedearimateia@alba.ba.gov.br', 'josedearimateia.jpg', '915859');",
+          "'arimateia.paiva@hotmail.com', 'josedearimateia.jpg', '915859');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Júnior Muniz', 'm', 'PP', 'Anexo Nelson David Ribeiro - gab. 301', "
+          "VALUES ('Júnior Muniz', 'm', 'PT', 'Anexo Nelson David Ribeiro - gab. 301', "
           "'3115-0974/3115-2930/3115-5237', 'juniormuniz@alba.ba.gov.br', "
           "'juniormuniz.jpg', '926901');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -1897,17 +1892,17 @@ class BdPlunge {
           "'jurailtonsantos.jpg', '926897');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Jurandy Oliveira', 'm', 'PP', "
+          "VALUES ('Jurandy Oliveira', 'm', 'PSB', "
           "'Anexo Nelson David Ribeiro - gab. 307', '3115-0940/3115-0962/3115-2957', "
-          "'deputadojurandyoliveira@alba.ba.gov.br', 'jurandyoliveira.jpg', '919328');",
+          "'deputadojurandyoliveira@gmail.com', 'jurandyoliveira.jpg', '919328');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Jusmari Oliveira', 'f', 'PSD', "
           "'Anexo Nelson David Ribeiro - gab. 204', '3115-5288/3115-5361/3115-7056', "
-          "'deputadajusmarioliveira@alba.ba.gov.br', 'jusmarioliveira.jpg', '926910');",
+          "'jusmarioliveira@gmail.com', 'jusmarioliveira.jpg', '926910');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Kátia Oliveira', 'f', 'MDB', 'Anexo Wilson Lins - gab. 105', "
+          "VALUES ('Kátia Oliveira', 'f', 'UB', 'Anexo Wilson Lins - gab. 105', "
           "'3115-2981/3115-5218/3115-5255', 'depkatiaoliveira@alba.ba.gov.br', "
           "'katiaoliveira.jpg', '926898');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -1917,17 +1912,22 @@ class BdPlunge {
           "'laertedovando@alba.ba.gov.br', 'laertedovando.jpg', '926922');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Luciano Simões Filho', 'm', 'DEM', 'Anexo Wilson Lins - gab. 309', "
+          "VALUES ('Léo Prates', 'm', 'PDT', 'Anexo Wilson Lins - gab. 107', "
+          "'3115-5389/3115-5276/3115-0924', 'comunicacaoleoprates@gmail.com', "
+          "'leoprates.jpg', '926909');",
+      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
+          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
+          "VALUES ('Luciano Simões Filho', 'm', 'UB', 'Anexo Wilson Lins - gab. 309', "
           "'3115-4032/3115-7141', 'lucianosimoes@alba.ba.gov.br', "
           "'lucianosimoes.jpg', '921278');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Luiz Augusto', 'm', 'PP', 'Anexo Wilson Lins - gab. 305', "
-          "'3115-7169/3115-7021/3115-5311', 'laugusto@alba.ba.gov.br', "
+          "'3115-7169/3115-7021/3115-5311', 'laugusto4000@gmail.com', "
           "'luizaugusto.jpg', '930496');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Marcelinho Veiga', 'm', 'PSB', 'Anexo Wilson Lins - gab. 307', "
+          "VALUES ('Marcelinho Veiga', 'm', 'UB', 'Anexo Wilson Lins - gab. 307', "
           "'3115-2923/3115-4092/3115-4908', 'depmveiga@alba.ba.gov.br', "
           "'marceloveiga.jpg', '926899');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -1942,14 +1942,19 @@ class BdPlunge {
           "'mariadelcarmen.jpg', '915885');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Marquinho Viana', 'm', 'PSB', "
+          "VALUES ('Marquinho Viana', 'm', 'PV', "
           "'Anexo Nelson David Ribeiro - gab. 106', '3115-4094/3115-5464/3115-7003', "
           "'marquinhoviana@alba.ba.gov.br', 'marquinhoviana.jpg', '919329');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Mirela Macedo', 'f', 'PSD', 'Anexo Wilson Lins - gab. 205', "
+          "VALUES ('Mirela Macedo', 'f', 'UB', 'Anexo Wilson Lins - gab. 205', "
           "'3115-4099/3115-5219', 'mirelamacedo@alba.ba.gov.br', 'mirelamacedo.jpg', "
           "'923798');",
+      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
+          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
+          "VALUES ('Nelson Leal', 'm', 'PP', 'Anexo Wilson Lins - gab. 305', "
+          "'3115-5311/3115-7021', 'nleal@alba.ba.gov.br', 'nelsonleal.jpg', "
+          "'903706');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
           "VALUES ('Neusa Lula Cadore', 'f', 'PT', 'Anexo Nelson David Ribeiro - gab. 305', "
@@ -1981,22 +1986,17 @@ class BdPlunge {
           "'prangel@alba.ba.gov.br', 'paulorangel.jpg', '908845');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Pedro Tavares', 'm', 'DEM', 'Anexo Nelson David Ribeiro - gab. 103', "
+          "VALUES ('Pedro Tavares', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 103', "
           "'3115-5349/3115-5479/3115-5548', 'deppedrotavares@alba.ba.gov.br', "
           "'pedrotavares.jpg', '915876');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Reinaldo Braga', 'm', 'PL', "
-          "'Anexo Nelson David Ribeiro - gab. 109', '3115-0933/3115-4047/3115-5340', "
-          "'rbraga@alba.ba.gov.br', 'reinaldobraga.jpg', '931033');",
-      "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
-          " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Roberto Carlos', 'm', 'PDT', 'Anexo Nelson David Ribeiro - gab. 308', "
+          "VALUES ('Roberto Carlos', 'm', 'PV', 'Anexo Nelson David Ribeiro - gab. 308', "
           "'3115-4036/3115-4095/3115-4097', 'rcarlos@alba.ba.gov.br', "
           "'robertocarlos.jpg', '907278');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Robinho', 'm', 'PP', 'Anexo Wilson Lins - gab. 304', "
+          "VALUES ('Robinho', 'm', 'UB', 'Anexo Wilson Lins - gab. 304', "
           "'3115-5369/3115-7018/3115-7137', 'robinho@alba.ba.gov.br', "
           "'robinho.jpg', '921265');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -2016,22 +2016,22 @@ class BdPlunge {
           "'rosembergpinto.jpg', '915881');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Samuel Júnior', 'm', 'PDT', 'Anexo Nelson David Ribeiro - gab. 306', "
+          "VALUES ('Samuel Júnior', 'm', 'REPUB', 'Anexo Nelson David Ribeiro - gab. 306', "
           "'3115-2971/3115-2982/3115-2991', 'depsamueljunior@alba.ba.gov.br', "
           "'samueljunior.jpg', '923801');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Sandro Régis', 'm', 'DEM', 'Anexo Wilson Lins - gab. 308', "
+          "VALUES ('Sandro Régis', 'm', 'UB', 'Anexo Wilson Lins - gab. 308', "
           "'3115-4949/3115-5408/3115-7051', 'sregis@alba.ba.gov.br', "
           "'sandroregis.jpg', '907264');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Soldado Prisco', 'm', 'PSC', 'Anexo Nelson David Ribeiro - gab. 203', "
+          "VALUES ('Soldado Prisco', 'm', 'UB', 'Anexo Nelson David Ribeiro - gab. 203', "
           "'3115-7144/3115-7184/3115-7059 ', 'soldadoprisco@alba.ba.gov.br', "
           "'soldadoprisco.jpg', '921280');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Talita Oliveira', 'f', 'PSL', 'Anexo Nelson David Ribeiro - gab. 310', "
+          "VALUES ('Talita Oliveira', 'f', 'REPUB', 'Anexo Nelson David Ribeiro - gab. 310', "
           "'3115-2959/3115-4015/3115-4062', 'talitaoliveira@alba.ba.gov.br', "
           "'talitaoliveira.jpg', '926970');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -2041,16 +2041,16 @@ class BdPlunge {
           "'tiagocorreia.jpg', '927093');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Tom Araújo', 'm', 'DEM', 'Anexo Wilson Lins - gab. 301', "
+          "VALUES ('Tom Araújo', 'm', 'UB', 'Anexo Wilson Lins - gab. 301', "
           "'3115-5374/3115-7285/3115-7388', 'tom@alba.ba.gov.br', "
           "'tomaraujo.jpg', '915871');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Tum', 'm', 'PSC', 'Anexo Nelson David Ribeiro - gab. 303', "
+          "VALUES ('Tum', 'm', 'AVANTE', 'Anexo Nelson David Ribeiro - gab. 303', "
           "'3115-0945/3115-0946/3115-2960', 'tum@alba.ba.gov.br', 'tum.jpg', '926917');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
           " $depGabCol, $depTelCol, $depEmailCol, $depFotoCol, $depLinkCol) "
-          "VALUES ('Vitor Bonfim', 'm', 'PL', 'Anexo Nelson David Ribeiro - gab. 104', "
+          "VALUES ('Vitor Bonfim', 'm', 'PV', 'Anexo Nelson David Ribeiro - gab. 104', "
           "'3115-2965/3115-4924/3115-7060', 'vitorbonfim@alba.ba.gov.br', "
           "'vitorbonfim.jpg', '921274');",
       "INSERT INTO $tabDep ($depNomeCol, $depSexoCol, $depPartCol,"
@@ -2135,7 +2135,7 @@ class BdPlunge {
           "$comissTelCol, $comissLocCol, $comissDiaCol, $comissHoraCol, $comissPresCol,	"
           "$comissViceCol, $comissMembCol, $comissSupleCol, $comissAsseCol, $comissPesqCol) VALUES ("
           "'Com. de Finanças, Orçamento, Fiscalização e Controle', 'Permanente', "
-          "'3115-7289', 'Sala Jairo Azi', 'Terça-feira', '11h15', 'Robinho', 'Tiago Correia', "
+          "'3115-7289', 'Sala Jairo Azi', 'Terça-feira', '11h15', 'Não eleito', 'Tiago Correia', "
           "'Alan Castro/Diego Coronel/Luciano Simões Filho/Samuel Júnior/Vitor Bonfim/Zé Raimundo Lula', "
           "'Jacó Lula da Silva/Marquinho Viana/Paulo Rangel Lula da Silva/Pedro Tavares', 'Iara Maria Loureiro de Oliveira', "
           "'Financas Orcamento Fiscalizacao e Controle Permanente Terca-feira Terca Robinho Tiago Correia "
@@ -2166,7 +2166,7 @@ class BdPlunge {
           "'Com. de Saúde e Saneamento', 'Permanente', '3115-7235/3115-2909', 'Sala Eliel Martins', "
           "'Terça-feira', '10h', 'Eduardo Alencar', 'José de Arimateia', "
           "'Alan Sanches/Alex da Piatã/Bira Corôa Lula/Fabíola Mansur/Jacó Lula da Silva/Niltinho', "
-          "'Angelo Almeida/Carlos Geilson/Euclides Fernandes/Jurandy Oliveira', 'Nancy Lima Pinto da Silva', "
+          "'Angelo Almeida/Euclides Fernandes/Jurandy Oliveira', 'Nancy Lima Pinto da Silva', "
           "'Saude e Saneamento Permanente Terca-feira Terca Eduardo Alencar Jose de Arimateia Alan Sanches "
           " Alex da Piata Bira Coroa Fabiola Mansur Jaco Niltinho Angelo Almeida Carlos Geilson Euclides "
           " Fernandes Jurandy Oliveira Eliel Martins');",
@@ -2189,7 +2189,7 @@ class BdPlunge {
           "'Com. Especial de Acompanhamento e Fiscalização de Barragens', 'Temporária', "
           "'3115-7289', 'Sala José Amando', 'Quarta-feira', '9h', 'Alan Castro', 'Laerte do Vando', "
           "'Eduardo Alencar/José de Arimateia/Júnior Muniz/Maria del Carmen Lula/Robinson Almeida Lula/Samuel Júnior', "
-          "'Marcelino Galo Lula/Tum', 'Tania Maria da Silva Bispo', 'Especial de Acompanhamento e Fiscalizacao "
+          "'Marcelino Galo Lula/Tum', 'Nancy Lima Pinto da Silva', 'Especial de Acompanhamento e Fiscalizacao "
           " de Barragens Temporaria Quarta-feira Quarta Alan Castro Laerte do Vando Eduardo Alencar Jose de Arimateia "
           " Junior Muniz Maria del Carmen Robinson Almeida Samuel Junior Marcelino Galo Tum Jose Amando');",
       "INSERT INTO $tabComiss ($comissNomeCol, $comissTipoCol, "
@@ -2199,7 +2199,7 @@ class BdPlunge {
           "'3115-7215/3115-2913', 'Sala Jadiel Matos', 'Quarta-feira', '9h15', "
           "'Tum', 'Osni Cardoso Lula da Silva', "
           "'Laerte do Vando/Mirela Macedo/Robinho/Rogério Andrade Filho/Vitor Bonfim/Zó', "
-          "'Aderbal Caldas/Luciano Simões Filho/Marquinho Viana/Paulo Rangel Lula da Silva', "
+          "'Luciano Simões Filho/Luiz Augusto/Marquinho Viana/Paulo Rangel Lula da Silva', "
           "'Iara Maria Loureiro de Oliveira', 'Especial de Assuntos Territoriais e Emancipacao "
           " Temporaria Quarta-feira Quarta Tum Osni Cardoso Laerte do Vando Mirela Macedo Robinho "
           " Rogerio Andrade Filho Vitor Bonfim Zo Aderbal Caldas Luciano Simoes Filho Marquinho "
@@ -2222,7 +2222,7 @@ class BdPlunge {
           "'Com. Especial de Desenvolvimento Urbano', 'Temporária', '3115-7215/3115-2913', "
           "'Sala Jadiel Matos', 'Segunda-feira', '14h', 'Maria del Carmen Lula', 'Tiago Correia', "
           "'Alex da Piatã/Alex Lima/Júnior Muniz/Olívia Santana/Robinson Almeida Lula/Tum', "
-          "'Fabíola Mansur/Josafá Marinho/Marcelino Galo Lula', 'Nancy Lima Pinto da Silva', 'Especial "
+          "'Fabíola Mansur/Josafá Marinho/Marcelino Galo Lula', 'Tania Marize da Silva Bispo', 'Especial "
           " de Desenvolvimento Urbano Temporaria Segunda-feira Segunda Maria del Carmen Tiago "
           " Correia Alex da Piata Alex Lima Junior Muniz Olivia Santana Robinson Almeida Tum "
           " Fabiola Mansur Josafa Marinho Marcelino Galo Jadiel Matos');",
@@ -2288,7 +2288,7 @@ class BdPlunge {
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Marcelinho Veiga', '3115-4051/3115-5499', 'null', '2a Vice-Presidência', "
-          "'marceloveiga.jpg', 'PSB');",
+          "'marceloveiga.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Bobô', '3115-5319/3115-4034', 'null', '3a Vice-Presidência', "
@@ -2300,15 +2300,15 @@ class BdPlunge {
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Júnior Muniz', '3115-5431/3115-7361', 'null', '1a Secretaria', "
-          "'juniormuniz.jpg', 'PP');",
+          "'juniormuniz.jpg', 'PT');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Alan Sanches', '3115-4938/3115-4932', 'null', '2a Secretaria', "
-          "'alansanches.jpg', 'DEM');",
+          "'alansanches.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Soldado Prisco', '3115-0906/3115-4940', 'null', '3a Secretaria', "
-          "'soldadoprisco.jpg', 'PSC');",
+          "'soldadoprisco.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Neusa Lula Cadore', '3115-7214/3115-5590', 'null', '4a Secretaria', "
@@ -2321,28 +2321,28 @@ class BdPlunge {
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Kátia Oliveira', '3115-2981/3115-5218', 'null', 'Suplente', "
-          "'katiaoliveira.jpg', 'MDB');",
+          "'katiaoliveira.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Mirela Macedo', '3115-4099/3115-5219', 'null', 'Suplente', "
-          "'mirelamacedo.jpg', 'PSD');",
+          "'mirelamacedo.jpg', 'UB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Roberto Carlos', '3115-4036/3115-4095', 'null', 'Suplente', "
-          "'robertocarlos.jpg', 'PDT');",
+          "'robertocarlos.jpg', 'PV');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Talita Oliveira', '3115-2959/3115-4015', 'null', 'Suplente', "
-          "'talitaoliveira.jpg', 'PSL');",
+          "'talitaoliveira.jpg', 'REPUB');",
       //FIM DOS SUPLENTES
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Euclides Fernandes', '3115-4058/3115-7139', 'null', 'Procurador', "
-          "'euclidesfernandes.jpg', 'PDT');",
+          "'euclidesfernandes.jpg', 'PT');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Talita Oliveira', '3115-2959/3115-4015', 'null', 'Ouvidora', "
-          "'talitaoliveira.jpg', 'PSL');",
+          "'talitaoliveira.jpg', 'REPUB');",
       "INSERT INTO $tabMesadir ($mesaDepCol, $mesaTelCol, $mesaLocalCol, $mesaCargoCol, "
           "$mesaFotoCol, $mesaPartCol) "
           "VALUES ('Aderbal Caldas', '3115-7131/3115-7363', 'null', 'Corregedor', "
@@ -2354,67 +2354,67 @@ class BdPlunge {
           "$partNomeCol	TEXT, $partSiglaCol	TEXT, $partLiderCol	TEXT, $partViceCol	TEXT, "
           "$partQtdCol	INTEGER NOT NULL);",
 
-      //PT - 11 deputados
+      //PT - 13 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Bancada', "
           "'Partido dos Trabalhadores', 'PT', 'Osni Cardoso Lula da Silva', "
-          "'Bira Corôa Lula/Maria del Carmen Lula', 11);",
+          "'Bira Corôa Lula/Maria del Carmen Lula', 13);",
 
-      //PSD - 10 deputados
+      //UB - 12 deputados
+      "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
+          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
+          "'União Brasil', 'UB', 'Tom Araújo', 'David Rios/Dal/Robinho', 12);",
+
+      //PSD - 7 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Bancada', "
           "'Partido Social Democrático', 'PSD', 'Diego Coronel', "
-          "'Mirela Macedo/Rogerio Andrade Filho', 10);",
+          "'Ivana Bastos/Rogerio Andrade Filho', 7);",
 
-      //PP - 9 deputados
+      //PP - 6 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Bancada', "
-          "'Partido Progressista', 'PP', 'Eduardo Salles', 'Luiz Augusto/Niltinho', 9);",
+          "'Partido Progressista', 'PP', 'null', 'null', 6);",
 
-      //DEM - 5 deputados
+      // PSB - 4 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Democratas', 'DEM', 'null', 'null', 5);",
-
-      // PSB - 5 deputados
-      "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
-          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Socialista Brasileiro', 'PSB', 'null', 'null', 5);",
+          "'Partido Socialista Brasileiro', 'PSB', 'null', 'null', 4);",
 
       //PC do B - 4 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
           "'Partido Comunista do Brasil', 'PC do B', 'null', 'null', 4);",
 
-      //PSDB - 4 deputados
+      //PV - 4 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido da Social Democracia Brasileira', 'PSDB', 'null', 'null', 4);",
+          "'Partido VERDE', 'PV', 'null', 'null', 4);",
 
-      //PDT - 3 deputados
+      //Republicanos - 4 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Democrático Trabalhista', 'PDT', 'null', 'null', 3);",
+          "'Republicanos', 'Repub', 'null', 'null', 4);",
 
-      //PSC - 3 deputados
+      //PSDB - 2 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Social Cristão', 'PSC', 'null', 'null', 3);",
+          "'Partido da Social Democracia Brasileira', 'PSDB', 'null', 'null', 2);",
 
-      //PSL - 2 deputados
+      //PDT - 2 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Social Liberal', 'PSL', 'null', 'null', 2);",
+          "'Partido Democrático Trabalhista', 'PDT', 'null', 'null', 2);",
 
-      //Republicanos - 2 deputados
+      //PSC - 1 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Republicanos', 'Repu', 'null', 'null', 2);",
+          "'Partido Social Cristão', 'PSC', 'null', 'null', 1);",
 
-      //PL - 2 deputado
+      //PL - 1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Partido Liberal', 'PL', 'null', 'null', 2);",
+          "'Partido Liberal', 'PL', 'null', 'null', 1);",
 
       //PATRIOTA - 1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
@@ -2422,62 +2422,62 @@ class BdPlunge {
           "'Patriota', 'Patriota', 'null', 'null', 1);",
 
       //Avante - 1 deputado
-      /*"INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
-          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Avante', 'Avante', 'null', 'null', 1);",*/
-
-      //MDB - 1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
-          "'Movimento Democrático Brasileiro', 'MDB', 'null', 'null', 1);",
+          "'Avante', 'Avante', 'null', 'null', 1);",
+
+      //MDB - 1 deputado
+      /*"INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
+          "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
+          "'Movimento Democrático Brasileiro', 'MDB', 'null', 'null', 1);",*/
 
       //PSOL -  1 deputado
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('Partido', "
           "'Partido Socialismo e Liberdade', 'PSOL', 'null', 'null', 1);",
 
-      //Bloco da Maioria - 44 deputados
+      //Bloco da Maioria - 34 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoM', "
-          "'Bloco da Maioria', 'PT/PSD/PP/PSB/PDT/PCdoB/PL', "
-          "'Rosemberg Lula Pinto', 'Carlos Ubaldino/Dal/Ivana Bastos/"
-          "Jurandy Oliveira/Reinaldo Braga/Roberto Carlos/"
-          "Robinson Almeida Lula/Zé Raimundo Lula', 44);",
+          "'Bloco da Maioria', 'PT/PSD/PSB/PV/PCdoB/Avante/Patriota', "
+          "'Rosemberg Lula Pinto', 'Fabrício Falcão/Robinson Almeida Lula/"
+          "Jurandy Oliveira/Carlos Ubaldino/Roberto Carlos/"
+          "Zé Raimundo Lula', 34);",
 
-      //Bloco da Minoria - 18 deputados
+      //Bloco da Minoria - 28 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoM', "
-          "'Bloco da Minoria', 'DEM/PSDB/PSC/PSL/Republicanos/Patriota/MDB', 'Sandro Régis', "
-          "'Carlos Geilson/Jurailton Santos/Tom Araújo', 18);",
+          "'Bloco da Minoria', 'UB/PSDB/PSC/PL/Republicanos/PP/PDT', 'Sandro Régis', "
+          "'Luciano Simões Filho/Kátia Oliveira/Tiago Correia/Mirela Macedo/Luiz Augusto', 28);",
 
       //Blocos partidários ------------ --ATUALIZAÇÃO
 
-      //Bloco PSB/PL - 7 deputados
+      //Bloco UB/PL - 13 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'PSB/PL', 'Alex Lima', "
-          "'Angelo Almeida/Vitor Bonfim', 7);",
+          "'Bloco Parlamentar', 'UB/PL', 'Tom Araújo', "
+          "'David Rios/Dal/Robinho', 13);",
 
-      //Bloco PDT/PC do B - 7 deputados
+      //Bloco PP/PSC - 7 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'PDT/PCdoB', ' Samuel Júnior', 'Fabrício Falcão/Zó', 7);",
+          "'Bloco Parlamentar', 'PP/PSC', 'Eduardo Salles', 'Niltinho/Laerte do Vando', 7);",
 
-      //Bloco DEM/MDB - 6 deputados
+      //Bloco PSB/PV - 8 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'DEM/MDB', "
-          "'Luciano Simões Filho', 'Kátia Oliveira', 6);",
+          "'Bloco Parlamentar', 'PSB/PV', "
+          "'Alex Lima', 'Vitor Bonfim/Angelo Almeida', 8);",
 
-      //Bloco PSDB/Republicanos - 6 deputados
+      //Bloco PSDB/Republicanos/PDT - 8 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'PSDB/Republicanos', 'Tiago Correia', 'David Rios', 6);",
+          "'Bloco Parlamentar', 'PSDB/Republicanos/PDT', 'Samuel Júnior', 'Jurailton Santos/Léo Prates', 8);",
 
-      //Bloco Patriota/PSL/PSC - 6 deputados
+      //Bloco PC do B/Patriota/Avante - 6 deputados
       "INSERT INTO $tabPart ($partTipoCol, $partNomeCol, $partSiglaCol, "
           "$partLiderCol, $partViceCol, $partQtdCol) VALUES ('BlocoP', "
-          "'Bloco Parlamentar', 'Patriota/PSL/PSC', 'Josafá Marinho', 'Laerte do Vando', 6);",
+          "'Bloco Parlamentar', 'Patriota/PC do B/Avante', 'Josafá Marinho', 'Zó', 6);",
 
       //FIM DOS PARTIDOS ------------ INICIO DA LISTA TELEFONICA
 
@@ -2487,15 +2487,15 @@ class BdPlunge {
 
       "INSERT INTO $tabSetores ($setorAreaCol, $setorNomeCol, $setorRespCol, "
           "$setorEmailCol, $setorTelCol, $setorTagCol) VALUES ('GABINETE DA PRESIDÊNCIA',  'Secretaria',  'null',  'null',  '3115-4901', 'GABINETE DA PRESIDENCIA  Secretaria'),"
-          "('GABINETE DA PRESIDÊNCIA',  'Chefe de Gabinete',  'Karine Queiroz Silva',  'null',  '3115-4904/3115-4907', 'GABINETE DA PRESIDENCIA  Chefe de Gabinete  Karine Queiroz Silva'),"
+          "('GABINETE DA PRESIDÊNCIA',  'Chefe de Gabinete',  'Ana Ilza Carneiro',  'null',  '3115-4904/3115-4907', 'GABINETE DA PRESIDENCIA  Chefe de Gabinete  Ana Ilza Carneiro'),"
           "('GABINETE DA PRESIDÊNCIA',  'Assistência Militar',  'Ten. Cel. PM Motta Lima',  'amilitar@alba.ba.gov.br',  '3115-7337/3115-4977', 'GABINETE DA PRESIDENCIA  Assistencia Militar  Ten. Cel. PM Motta Lima'),"
           "('GABINETE DA PRESIDÊNCIA',  'Assistente da Mesa Diretora',  'Rosane Ribeiro',  'null',  '3115-7355/3115-2977', 'GABINETE DA PRESIDENCIA  Assistente da Mesa Diretora  Rosane Ribeiro'),"
           "('GABINETE DA PRESIDÊNCIA',  'Cerimonial',  'Manuela Braga',  'cerimonial@alba.ba.gov.br',  '3115-4911', 'GABINETE DA PRESIDENCIA  Cerimonial  Manuela Braga'),"
           "('GABINETE DA PRESIDÊNCIA',  'Assessor de Relações Institucionais',  'Hermógenes Gomes Neto',  'null',  '3115-4906/3115-4965', 'GABINETE DA PRESIDENCIA  Assessor de Relacoes Institucionais  Hermogenes Gomes Neto'),"
-          "('GABINETE DA PRESIDÊNCIA',  'Assessoria de Comunicação Presidencia',  'Nestor Mendes',  'null',  '3115-7334', 'GABINETE DA PRESIDENCIA  Assessoria de Comunicacao Presidencia  Nestor Mendes'),"
+          "('GABINETE DA PRESIDÊNCIA',  'Assessoria de Comunicação Presidencia',  'Nestor Mendes',  'null',  '3115-7334', 'GABINETE DA PRESIDENCIA  Assessoria de Comunicacao Presidencia ascom Nestor Mendes'),"
           "('PROCURADORIA GERAL',  'Procurador Geral',  'Graciliano Bomfim',  'pgeral@alba.ba.gov.br',  '3115-7241/3115-7168', 'PROCURADORIA GERAL  Procurador Geral  Graciliano Bomfim'),"
-          "('PROCURADORIA GERAL',  'Subprocuradora Geral',  'Laura Duran(respondendo)',  'null',  '3115-7397', 'PROCURADORIA GERAL  Subprocurador Geral  Laura Duran'),"
-          "('ASSESSORIA DE COMUNICAÇÃO SOCIAL',  'Chefe da Assessoria',  'Paulo Bina',  'ascom@alba.ba.gov.br',  '3115-4958/3115-4959', 'ASSESSORIA DE COMUNICACAO SOCIAL  Chefe da Assessoria  Paulo Bina'),"
+          "('PROCURADORIA GERAL',  'Subprocuradora Geral',  'Bianca Pellegrino',  'null',  '3115-7397', 'PROCURADORIA GERAL  Subprocurador Geral Bianca Pellegrino'),"
+          "('ASSESSORIA DE COMUNICAÇÃO SOCIAL',  'Chefe da Assessoria',  'Paulo Bina',  'ascom@alba.ba.gov.br',  '3115-4958/3115-4959', 'ASSESSORIA DE COMUNICACAO SOCIAL  Chefe da Assessoria ascom Paulo Bina'),"
           "('ASSESSORIA DE PLANEJAMENTO',  'Chefe da Assessoria',  'Ricardo Chagas de Abreu',  'asplan@alba.ba.gov.br',  '3115-7299/3115-4955', 'ASSESSORIA DE PLANEJAMENTO  Chefe da Assessoria  Ricardo Chagas de Abreu'),"
           "('AUDITORIA',  'Auditor Chefe',  'Ailton Cezarino de Novaes',  'auditoria@alba.ba.gov.br',  '3115-4983/3115-2988', 'AUDITORIA  Auditor Chefe  Ailton Cezarino de Novaes'),"
           "('AUDITORIA',  'Auditor Adjunto',  'Pablo Oliveira e Silva',  'null',  '3115-7341', 'AUDITORIA  Auditor Adjunto  Pablo Oliveira e Silva'),"
@@ -2524,14 +2524,14 @@ class BdPlunge {
           "('DIRETORIA ADMINISTRATIVA',  'Departamento de Apoio Administrativo',  'José Valdemir',  'sadag@alba.ba.gov.br',  '3115-7046', 'DIRETORIA ADMINISTRATIVA  Departamento de Apoio Administrativo  Jose Valdemir'),"
           "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Protocolo',  'Mirian Farias',  'protocoloalba@alba.ba.gov.br',  '3115-7047', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Protocolo Mirian  Miriam Farias'),"
           "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Serviços Gráficos',  'Anderson Sena',  'coordgrafica@alba.ba.gov.br',  '3115-2967', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Servicos Graficos  Anderson Sena'),"
-          "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Sonorização',  'Levino Costa Lima',  'sass@alba.ba.gov.br',  '3115-7164', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Sonorizacao  Levino Costa Lima'),"
+          "('DIRETORIA ADMINISTRATIVA',  'Coordenação de Sonorização',  'Levino Cunha',  'sass@alba.ba.gov.br',  '3115-7164', 'DIRETORIA ADMINISTRATIVA  Coordenacao de Sonorizacao  Levino Cunha'),"
           "('DIRETORIA ADMINISTRATIVA',  'Departamento de Contratos e Convênios',  'Antonio Sancho',  'dasccc@alba.ba.gov.br',  '3115-7114', 'DIRETORIA ADMINISTRATIVA  Departamento de Contratos e Convenios  Antonio Sancho'),"
-          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Diretor',  'a definir',  'def@alba.ba.gov.br',  '3115-4972', 'DIRETORIA DE ECONOMIA E FINANCAS  Diretor'),"
-          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Contabilidade',  'Laura Navarro',  'depcont@alba.ba.gov.br',  '3115-4971', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Contabilidade  Laura Navarro'),"
+          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Diretor',  'Clóvis Ferraz',  'def@alba.ba.gov.br',  '3115-4972', 'DIRETORIA DE ECONOMIA E FINANCAS  Diretor clovis ferraz'),"
+          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Contabilidade',  'Laura Bengard',  'depcont@alba.ba.gov.br',  '3115-4971', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Contabilidade  Laura Bengard'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação de Análise Contábil',  'Fábio Lima',  'analisecontabil@alba.ba.gov.br',  '3115-5475', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao de Analise Contabil  Fabio Lima'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação de Registro Contábil',  'Maria do Perpétuo Sousa',  'sfsrc@alba.ba.gov.br',  '3115-4970', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao de Registro Contabil  Maria do Perpetuo Sousa'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Orçamento e Finanças',  'Naédina Oliveira',  'sfdof@alba.ba.gov.br',  '3115-7217', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Orcamento e Financas  Naedina Oliveira'),"
-          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação Orçamentária',  'Vera Lúcia Leal',  'null',  '3115-7098', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao Orcamentaria  Vera Lucia Leal'),"
+          "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação Orçamentária',  'a definir',  'null',  '3115-7098', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao Orcamentaria'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Coordenação Financeira',  'Carlos Maurício Santos',  'sfsf@alba.ba.gov.br',  '3115-7129', 'DIRETORIA DE ECONOMIA E FINANCAS  Coordenacao Financeira  Carlos Mauricio Santos'),"
           "('DIRETORIA DE ECONOMIA E FINANÇAS',  'Departamento de Verbas e Cotas Parlamentares',  'Ana Verena Bacellar',  'dvcp@alba.ba.gov.br',  '3115-2943', 'DIRETORIA DE ECONOMIA E FINANCAS  Departamento de Verbas e Cotas Parlamentares  Ana Verena Bacellar'),"
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Diretor',  'Armando Veloso',  'dirinfo@alba.ba.gov.br',  '3115-7298', 'DIRETORIA DE TECNOLOGIA DA INFORMACAO  Diretor  Armando Veloso'),"
@@ -2539,6 +2539,7 @@ class BdPlunge {
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Departamento de Tecnologia da Informação',  'Alexandre Vinicius',  'depti@alba.ba.gov.br',  '3115-2906', 'DIRETORIA TECNOLOGIA DA INFORMACAO  Departamento de Tecnologia da Informacao  Alexandre Vinicius'),"
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Coordenação de Desenvolvimento de Sistemas ',  'Vanildo Guimarães',  'sds@alba.ba.gov.br',  '3115-7221', 'DIRETORIA TECNOLOGIA INFORMACAO  Coordenacao de Desenvolvimento de Sistemas   Vanildo Guimaraes'),"
           "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Coordenação de Informação',  'Bruno Calixto',  'sci@alba.ba.gov.br',  '3115-4070', 'DIRETORIA DE TECNOLOGIA DA INFORMACAO  Coordenacao de Informacao  Bruno Calixto'),"
+          "('DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO',  'Call Center de Informática',  'Call Center',  'null',  '3115-1100', 'DIRETORIA DE TECNOLOGIA DA INFORMACAO  call center informatica'),"
           "('SUPERINTENDÊNCIA DE RECURSOS HUMANOS',  'Superintendente',  'Francisco Raposo',  'srh@alba.ba.gov.br',  '3115-4968/3115-4075', 'SUPERINTENDENCIA DE RECURSOS HUMANOS  Superintendente  Francisco Raposo'),"
           "('SUPERINTENDÊNCIA DE RECURSOS HUMANOS',  'Departamento de Administração de Pessoal',  'Cláudio Santana',  'srhdap@alba.ba.gov.br',  '3115-7305', 'SUPERINTENDENCIA DE RECURSOS HUMANOS  Departamento de Administracao de Pessoal  Claudio Santana'),"
           "('SUPERINTENDÊNCIA DE RECURSOS HUMANOS',  'Coordenação de Movimentação de Pessoal',  'Juliana Nadjara',  'srh_scc@alba.ba.gov.br',  '3115-5458', 'SUPERINTENDENCIA DE RECURSOS HUMANOS  Coordenacao de Movimentacao de Pessoal  Juliana Nadjara'),"
@@ -2548,27 +2549,28 @@ class BdPlunge {
           "('DIRETORIA DE PROMOÇÃO À SAÚDE',  'Coordenação Técnica',  'Rodrigo Vasco da Gama',  'null',  '3115-7332/3115-4107', 'DIRETORIA DE PROMOCAO A SAUDE  Coordenacao Tecnica  Rodrigo Vasco da Gama'),"
           "('DIRETORIA DE PROMOÇÃO À SAÚDE',  'Coordenação de Nutrição',  'Terezinha Raposo',  'nutricao@alba.ba.gov.br',  '3115-7174', 'DIRETORIA DE PROMOCAO A SAUDE  Coordenacao de Nutricao  Terezinha Raposo'),"
           "('ESCOLA DO LEGISLATIVO',  'Diretora',  'Fernanda Alencar',  'escoladolegislativo@alba.ba.gov.br',  '3115-7310', 'ESCOLA DO LEGISLATIVO  Diretora  Fernanda Alencar'),"
-          "('ESCOLA DO LEGISLATIVO',  'Departamento Pedagógico e de Desenvolvimento',  'Marcyane Pirajá',  'escoladolegislativo@alba.ba.gov.br',  '3115-5468', 'ESCOLA DO LEGISLATIVO  Departamento Pedagogico e de Desenvolvimento  Marcyane Piraja'),"
+          "('ESCOLA DO LEGISLATIVO',  'Departamento Pedagógico e de Desenvolvimento',  'Yuriko Ozawa',  'escoladolegislativo@alba.ba.gov.br',  '3115-5468', 'ESCOLA DO LEGISLATIVO  Departamento Pedagogico e de Desenvolvimento  Yuriko Ozawa'),"
           "('ESCOLA DO LEGISLATIVO',  'Departamento de Projetos Especiais',  'Jéssica Freire',  'escoladolegislativo@alba.ba.gov.br',  '3115-7223', 'ESCOLA DO LEGISLATIVO  Departamento de Projetos Especiais  Jessica Freire'),"
-          "('SUPERINTENDÊNCIA DE ASSUNTOS PARLAMENTARES',  'Superintendente',  'Ivoneide Souza Caetano',  'sasp@alba.ba.gov.br',  '3115-7219', 'SUPERINTENDENCIA DE ASSUNTOS PARLAMENTARES  Superintendente  Ivoneide Souza Caetano'),"
-          "('DIRETORIA LEGISLATIVA',  'Diretor',  'Clóvis Ferraz',  'dirlegis@alba.ba.gov.br',  '3115-7238', 'DIRETORIA LEGISLATIVA  Diretor  Clóvis Ferraz'),"
+          "('SUPERINTENDÊNCIA DE ASSUNTOS PARLAMENTARES',  'Superintendente',  'Breno Valadares dos Anjos',  'sasp@alba.ba.gov.br',  '3115-7219', 'SUPERINTENDENCIA DE ASSUNTOS PARLAMENTARES  Superintendente  Breno Valadares dos Anjos'),"
+          "('DIRETORIA LEGISLATIVA',  'Diretor',  'Wolnei Borges Lima',  'dirlegis@alba.ba.gov.br',  '3115-7238', 'DIRETORIA LEGISLATIVA  Diretor  Wolnei Borges Lima'),"
           "('DIRETORIA LEGISLATIVA',  'Departamento de Atos Oficiais',  'Marize Bastos',  'atosoficiais@alba.ba.gov.br',  '3115-2915', 'DIRETORIA LEGISLATIVA  Departamento Atos Oficiais  Marize Bastos'),"
-          "('DIRETORIA LEGISLATIVA',  'Departamento de Taquigrafia',  'Marilanja Pereira',  'detaq@alba.ba.gov.br',  '3115-2902', 'DIRETORIA LEGISLATIVA  Departamento Taquigrafia  Marilanja Pereira'),"
+          "('DIRETORIA LEGISLATIVA',  'Departamento de Taquigrafia',  'Marilanja Santos',  'detaq@alba.ba.gov.br',  '3115-2902', 'DIRETORIA LEGISLATIVA  Departamento Taquigrafia  Marilanja Santos'),"
           "('DIRETORIA LEGISLATIVA',  'Coordenação de Apanhamento e Revisão',  'Mirela Novais',  'coare@alba.ba.gov.br',  '3115-2911', 'DIRETORIA LEGISLATIVA  Coordenacao Apanhamento Revisao  Mirela Novais'),"
           "('DIRETORIA LEGISLATIVA',  'Coordenação de Apoio Taquigráfico',  'Vera Simões',  'coara@alba.ba.gov.br',  '3115-2919', 'DIRETORIA LEGISLATIVA  Coordenacao Apoio Taquigrafico  Vera Simoes'),"
-          "('DIRETORIA LEGISLATIVA',  'Departamento de Controle do Processo Legislativo',  'Licéa Santos',  'dcpl@alba.ba.gov.br',  '3115-7113', 'DIRETORIA LEGISLATIVA  Departamento de Controle do Processo Legislativo  Licea Santos'),"
-          "('DIRETORIA LEGISLATIVA',  'Coordenação de Registro',  'Andréa Velloso',  'null',  '3115-2916', 'DIRETORIA LEGISLATIVA  Coordenacao de Registro  Andrea Velloso'),"
-          "('DIRETORIA LEGISLATIVA',  'Coordenação de Expediente',  'Marjorie Fontes',  'expediente@alba.ba.gov.br',  '3115-7194', 'DIRETORIA LEGISLATIVA  Coordenacao de Expediente  Marjorie Fontes'),"
+          "('DIRETORIA LEGISLATIVA',  'Departamento de Controle do Processo Legislativo',  'Maria Carolina Brito',  'dcpl@alba.ba.gov.br',  '3115-7113', 'DIRETORIA LEGISLATIVA  Departamento de Controle do Processo Legislativo  Maria Carolina Brito'),"
+          "('DIRETORIA LEGISLATIVA',  'Coordenação de Registro',  'Janine Trindade',  'null',  '3115-2916', 'DIRETORIA LEGISLATIVA  Coordenacao de Registro  Janine Trindade'),"
+          "('DIRETORIA LEGISLATIVA',  'Coordenação de Expediente',  'Luiza Andrade',  'expediente@alba.ba.gov.br',  '3115-7194', 'DIRETORIA LEGISLATIVA  Coordenacao de Expediente  Luiza Andrade'),"
           "('DIRETORIA PARLAMENTAR',  'Diretor',  'Geraldo Mascarenhas',  'dpa@alba.ba.gov.br',  '3115-7274', 'DIRETORIA PARLAMENTAR  Diretor  Geraldo Mascarenhas'),"
-          "('DIRETORIA PARLAMENTAR',  'Departamento de Documentação e Informação ',  'Tânia Queiroz',  'bib@alba.ba.gov.br',  '3115-4973', 'DIRETORIA PARLAMENTAR  Departamento de Documentacao e Informacao Tania Queiroz'),"
-          "('DIRETORIA PARLAMENTAR',  'Coordenação de Biblioteca',  'Iracilda Nunes',  'bib@alba.ba.gov.br',  '3115-5229', 'DIRETORIA PARLAMENTAR  Coordenacao de Biblioteca  Iracilda Nunes'),"
-          "('DIRETORIA PARLAMENTAR',  'Coordenação de Anais',  'Dora Maria Silva',  'anais@alba.ba.gov.br',  '3115-7220', 'DIRETORIA PARLAMENTAR  Coordenacao de Anais  Dora Maria Silva'),"
+          "('DIRETORIA PARLAMENTAR',  'Departamento de Documentação e Informação ',  'Iracilda Nunes',  'bib@alba.ba.gov.br',  '3115-4973', 'DIRETORIA PARLAMENTAR  Departamento de Documentacao e Informacao Iracilda Nunes'),"
+          "('DIRETORIA PARLAMENTAR',  'Coordenação de Biblioteca',  'Cláudia Lago',  'bib@alba.ba.gov.br',  '3115-5229', 'DIRETORIA PARLAMENTAR  Coordenacao de Biblioteca  Claudia Lago'),"
+          "('DIRETORIA PARLAMENTAR',  'Coordenação de Anais',  'Gabriela Azoubel',  'anais@alba.ba.gov.br',  '3115-7220', 'DIRETORIA PARLAMENTAR  Coordenacao de Anais Gabriela Azoubel'),"
           "('DIRETORIA PARLAMENTAR',  'Coordenação de Arquivo Geral e Microfilmagem',  'Raquel Machado',  'arquivogeral@alba.ba.gov.br',  '3115-7112', 'DIRETORIA PARLAMENTAR  Coordenacao de Arquivo Geral e Microfilmagem  Raquel Machado'),"
-          "('DIRETORIA PARLAMENTAR',  'Departamento de Pesquisa',  'Maria Pia Baldwin',  'departamentopesquisa@alba.ba.gov.br',  '3115-4974', 'DIRETORIA PARLAMENTAR  Departamento de Pesquisa  Maria Pia Baldwin'),"
+          "('DIRETORIA PARLAMENTAR',  'Departamento de Pesquisa',  'Arlete Neiva',  'departamentopesquisa@alba.ba.gov.br',  '3115-4974', 'DIRETORIA PARLAMENTAR  Departamento de Pesquisa Arlete Neiva'),"
           "('DIRETORIA PARLAMENTAR',  'Coordenação do Memorial do Legislativo',  'Cláudio Oliveira',  'memorial@alba.ba.gov.br',  '3115-7291', 'DIRETORIA PARLAMENTAR  Coordenacao do Memorial do Legislativo  Claudio Oliveira'),"
-          "('DIRETORIA PARLAMENTAR',  'Departamento de Apoio Técnico ',  'Arlete Neiva',  'dpdat@alba.ba.gov.br',  '3115-7222', 'DIRETORIA PARLAMENTAR  Departamento de Apoio Tecnico   Arlete Neiva'),"
+          "('DIRETORIA PARLAMENTAR',  'Departamento de Apoio Técnico ',  'Ian Schwarz',  'dpdat@alba.ba.gov.br',  '3115-7222', 'DIRETORIA PARLAMENTAR  Departamento de Apoio Tecnico Ian Schwarz'),"
           "('SECRETARIA GERAL DA MESA',  'Secretário Geral',  'Carlos Machado',  'sgm@alba.ba.gov.br',  '3115-7231', 'SECRETARIA GERAL DA MESA  Secretario Geral  Carlos Machado'),"
           "('SECRETARIA GERAL DE COMISSÕES',  'Secretária Geral',  'Sandra Moreno',  'sgc@alba.ba.gov.br',  '3115-7260', 'SECRETARIA GERAL DE COMISSOES  Secretaria Geral  Sandra Moreno'),"
+          "('DIVERSOS',  'Assistência Civil',  'null',  'null',  '3115-4017/3115-4909', 'DIVERSOS  Assistencia Civil'),"
           "('DIVERSOS',  'Grupo Editorial',  'null',  'null',  '3115-7243', 'DIVERSOS  Grupo Editorial'),"
           "('DIVERSOS',  'Assalba',  'null',  'null',  '3115-2962/3115-7038', 'DIVERSOS  Assalba'),"
           "('DIVERSOS',  'Central Telefônica',  'null',  'null',  '3115-7399/3115-7268', 'DIVERSOS  Central Telefonica'),"
@@ -2592,13 +2594,12 @@ class BdPlunge {
           "('DIVERSOS',  'Refeitório',  'null',  'null',  '3115-7329', 'DIVERSOS  Refeitorio'),"
           "('DIVERSOS',  'Restaurante A La Carte',  'null',  'null',  '3115-7314', 'DIVERSOS  Restaurante Carte'),"
           "('DIVERSOS',  'Salão de Beleza',  'null',  'null',  '3115-5496', 'DIVERSOS  Salao de Beleza'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Agda Paiva',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Gerente  Agda Paiva'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Tais Gomes',  'null',  '3115-7146', 'BANCO BRADESCO Posto Assembleia  Gerente  Tais Gomes'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Felipe Barbosa',  'null',  '3115-7359', 'BANCO BRADESCO Posto Assembleia  Gerente  Felipe Barbosa'),"
+          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Tais Damasceno',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Gerente Tais Damasceno'),"
+          "('BANCO BRADESCO Posto Assembleia',  'Gerente',  'Elisabete Alves',  'null',  '3115-7146', 'BANCO BRADESCO Posto Assembleia  Gerente Elisabete Alves'),"
           "('BANCO BRADESCO Posto Assembleia',  'Sala Vip',  'null',  'null',  '3115-7128', 'BANCO BRADESCO Posto Assembleia  Sala Vip'),"
-          "('BANCO BRADESCO Posto Assembleia',  'Seguros',  'Rosângela Rivas',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Seguros  Rosangela Rivas'),"
-          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Fernanda Marques',  'null',  '3115-7009', 'BRADESCO PRIME - Assembleia  Gerente  Fernanda Marques'),"
-          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Raquel Castro',  'null',  '3473-6001', 'BRADESCO PRIME - Assembleia  Gerente  Raquel Castro');",
+          "('BANCO BRADESCO Posto Assembleia',  'Seguros',  'null',  'null',  '3115-4056', 'BANCO BRADESCO Posto Assembleia  Seguros'),"
+          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Daniele',  'null',  '3115-7009', 'BRADESCO PRIME - Assembleia  Gerente  Ivaneide Novais Daniele'),"
+          "('BRADESCO PRIME - Assembleia',  'Gerente',  'Ivaneide Novais',  'null',  '3473-6001', 'BRADESCO PRIME - Assembleia  Gerente  Ivaneide Novais Daniele');",
 
       //Todos os deputados
       "CREATE TABLE $tabTodosDep ($idTodoDepCol	INTEGER PRIMARY KEY, $nomeParlaCol TEXT, "

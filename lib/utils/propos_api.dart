@@ -91,8 +91,8 @@ class PropositionApi {
           }
         }
         max = int.parse(pg);
-        if (max > 3) {
-          max = 3;
+        if (max > 1) {
+          max = 1;
         }
       }else{
         max = 0;

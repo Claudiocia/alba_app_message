@@ -1,4 +1,4 @@
-# alba_app
+# alba_app_message
 
 O Aplicativo da ALBA
 

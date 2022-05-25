@@ -30,7 +30,8 @@ class _PlaceTVAlbaWidgetState extends State<PlaceTVAlbaWidget> {
       _conectivityStatus(connectivityResult);
     });
     _videoPlayerController = VideoPlayerController.network(
-        'https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8');
+      'https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8');
+    //'https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8');
     _videoPlayerController.addListener(() {
       if (startedPlaying && !_videoPlayerController.value.isPlaying) {
         Navigator.pop(context);
